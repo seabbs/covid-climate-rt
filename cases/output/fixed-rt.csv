@@ -1,0 +1,410 @@
+countryname,cityname,citycode,type,median,mean,sd,lower_20,upper_20,lower_50,upper_50,lower_90,upper_90
+Singapore,Singapore,Singapore,fixed,0.87,0.87,0.16,0.86,0.94,0.76,0.97,0.62,1.15
+Spain,A_Coruna,acrn.spa9014,fixed,1.63,1.63,0.08,1.62,1.65,1.58,1.68,1.5,1.77
+United States,Augusta,agst.usa7306,fixed,1.41,1.46,0.4,1.29,1.46,1.1,1.58,0.81,2.08
+United States,Akron,akrn.usa7306,fixed,1.18,1.19,0.14,1.14,1.2,1.1,1.28,0.97,1.42
+Spain,Albacete,albc.spa9014,fixed,1.7,1.7,0.08,1.67,1.71,1.64,1.75,1.57,1.82
+United States,Albany,albn.usa7306,fixed,1.1,1.11,0.08,1.08,1.12,1.05,1.16,0.98,1.25
+United States,Albuquerque,albq.usa7306,fixed,1.51,1.52,0.17,1.46,1.53,1.39,1.6,1.24,1.77
+Spain,Alicante,alcn.spa9014,fixed,1.7,1.7,0.08,1.7,1.74,1.65,1.76,1.56,1.82
+United States,Allentown,alln.usa7306,fixed,1.65,1.65,0.11,1.6,1.66,1.58,1.72,1.47,1.83
+Spain,Almeria,almr.spa9014,fixed,1.2,1.2,0.07,1.16,1.2,1.14,1.23,1.08,1.31
+United States,Anchorage,anch.usa7306,fixed,1.17,1.19,0.22,1.11,1.21,1.04,1.32,0.84,1.54
+Italy,Ancona,ancn.ita0615,fixed,1.41,1.42,0.11,1.37,1.42,1.34,1.48,1.23,1.58
+United States,Anaheim,anhm.usa7306,fixed,1.5,1.51,0.09,1.46,1.5,1.45,1.56,1.36,1.66
+United States,Ann Arbor,anna.usa7306,fixed,1.35,1.36,0.11,1.32,1.38,1.28,1.42,1.17,1.53
+United States,Annandale,annn.usa7306,fixed,1.36,1.37,0.12,1.33,1.39,1.26,1.42,1.16,1.56
+United States,Austin,astn.usa7306,fixed,1.45,1.46,0.14,1.38,1.45,1.35,1.52,1.23,1.68
+United States,Atlantic City,atlc.usa7306,fixed,1.56,1.58,0.24,1.47,1.59,1.37,1.68,1.17,1.96
+United States,Atlanta,atln.usa7306,fixed,1.66,1.66,0.08,1.61,1.65,1.6,1.71,1.53,1.79
+United States,Aztec,atzc.usa7306,fixed,1.08,1.1,0.44,0.95,1.15,0.79,1.33,0.37,1.79
+Spain,Avila,avil.spa9014,fixed,1.4,1.4,0.09,1.39,1.43,1.34,1.45,1.26,1.54
+Italy,Bari,bari.ita8710,fixed,1.46,1.48,0.3,1.36,1.5,1.26,1.63,0.97,1.91
+Switzerland,Basel-Stadt,basl.sui9513,fixed,1.41,1.41,0.07,1.39,1.43,1.37,1.46,1.29,1.52
+United States,bath,bath.usa7306,fixed,1.17,1.18,0.4,1.1,1.28,0.94,1.44,0.54,1.84
+United Kingdom,Bedford,bdfr.uk9016,fixed,1.34,1.34,0.16,1.29,1.37,1.23,1.43,1.07,1.58
+Spain,Badajoz,bdjz.spa9014,fixed,1.21,1.21,0.08,1.19,1.22,1.15,1.25,1.09,1.33
+Brazil,Belém,belm.bra9711,fixed,1.5,1.5,0.1,1.46,1.5,1.43,1.56,1.34,1.66
+Switzerland,Bern,bern.sui9513,fixed,1.59,1.59,0.09,1.55,1.59,1.52,1.64,1.45,1.75
+United States,Buffalo,bffl.usa7306,fixed,1.49,1.49,0.09,1.46,1.5,1.42,1.54,1.34,1.64
+Spain,Bizkaia,bilb.spa9014,fixed,1.8,1.8,0.08,1.78,1.82,1.75,1.85,1.68,1.93
+China,Beijing,bjng.chi9615,fixed,1.2,1.2,0.07,1.18,1.21,1.14,1.24,1.08,1.32
+United States,Bakersfield,bkrs.usa7306,fixed,1.48,1.48,0.17,1.43,1.51,1.35,1.57,1.23,1.77
+United Kingdom,Blackburn with Darwen,blckb.uk9016,fixed,1.41,1.42,0.21,1.34,1.43,1.3,1.56,1.08,1.75
+United States,boulder,bldr.usa7306,fixed,1.33,1.33,0.1,1.27,1.32,1.26,1.39,1.17,1.49
+Italy,Bologna,blgn.ita0110,fixed,1.56,1.56,0.1,1.52,1.56,1.49,1.62,1.41,1.72
+Brazil,Belo Horizonte,blhr.bra9711,fixed,1.08,1.08,0.1,1.06,1.11,1,1.13,0.92,1.25
+United States,Baltimore,bltm.usa7306,fixed,1.58,1.58,0.08,1.54,1.58,1.52,1.63,1.45,1.71
+United States,Boise City,bois.usa7306,fixed,1.41,1.42,0.22,1.36,1.46,1.26,1.55,1.03,1.74
+United Kingdom,Brighton and Hove,brah.uk9016,fixed,1.36,1.36,0.09,1.32,1.37,1.3,1.42,1.22,1.51
+Spain,Barcelona,brcl.spa9014,fixed,1.47,1.47,0.12,1.43,1.48,1.38,1.53,1.29,1.66
+United Kingdom,Barnsley,brdv.uk9016,fixed,1.28,1.28,0.11,1.24,1.29,1.2,1.35,1.11,1.46
+France,gironde,brdx.fra0014,fixed,1.61,1.61,0.18,1.56,1.65,1.47,1.71,1.31,1.9
+United States,Paterson,brgn.usa7306,fixed,1.73,1.74,0.12,1.7,1.75,1.65,1.8,1.56,1.93
+Spain,Burgos,brgs.spa9014,fixed,1.57,1.57,0.07,1.55,1.58,1.53,1.62,1.47,1.69
+Germany,Berlin,brln.ger9315,fixed,1.57,1.57,0.09,1.52,1.56,1.5,1.62,1.42,1.71
+United States,Burlington,brln.usa7306,fixed,1.42,1.42,0.15,1.36,1.43,1.29,1.48,1.19,1.67
+Germany,Bremen,brmn.ger9315,fixed,1.45,1.46,0.1,1.43,1.48,1.38,1.5,1.3,1.62
+United States,Birmingham,brmn.usa7306,fixed,1.3,1.3,0.08,1.28,1.32,1.22,1.33,1.16,1.44
+Italy,Brindisi,brnd.ita0110,fixed,1.25,1.27,0.42,1.03,1.22,1,1.5,0.59,1.91
+United States,Barnstable,brns.usa7306,fixed,1.28,1.28,0.12,1.24,1.3,1.2,1.36,1.09,1.49
+Australia,Brisbane,brsb.aus8809,fixed,1.2,1.21,0.08,1.18,1.22,1.15,1.26,1.07,1.34
+Italy,Brescia,brsc.ita8710,fixed,1.66,1.67,0.11,1.62,1.68,1.57,1.72,1.47,1.85
+Brazil,Brasília,brsl.bra9711,fixed,1.18,1.19,0.08,1.16,1.2,1.13,1.23,1.06,1.32
+United Kingdom,"Bristol, City of",brst.uk9016,fixed,1.35,1.35,0.08,1.32,1.36,1.28,1.39,1.22,1.49
+United Kingdom,Basildon,bsld.uk9016,fixed,1.37,1.37,0.14,1.33,1.4,1.27,1.46,1.13,1.59
+United Kingdom,Basingstoke and Deane,bsng.uk9016,fixed,1.55,1.56,0.1,1.53,1.58,1.48,1.62,1.4,1.73
+United States,Boston,bstn.usa7306,fixed,1.81,1.81,0.11,1.78,1.83,1.72,1.86,1.63,2
+United States,Baton Rouge,btnr.usa7306,fixed,1.65,1.66,0.14,1.6,1.66,1.55,1.73,1.42,1.87
+South Korea,busan,busn.kor9718,fixed,0.67,0.7,0.35,0.46,0.64,0.44,0.9,0.08,1.21
+Spain,Cadiz,cadz.spa9014,fixed,1.5,1.5,0.09,1.46,1.51,1.44,1.56,1.35,1.65
+Italy,Catania,catn.ita0615,fixed,1.42,1.44,0.26,1.31,1.43,1.24,1.58,1.01,1.82
+Spain,Caceres,ccrs.spa9014,fixed,1.66,1.66,0.08,1.65,1.69,1.6,1.7,1.53,1.78
+Spain,Ciudad_Real,cddr.spa9014,fixed,1.67,1.67,0.08,1.63,1.67,1.6,1.71,1.53,1.8
+United States,Cedar Rapids,cdrr.usa7306,fixed,1.38,1.39,0.27,1.33,1.45,1.2,1.53,0.95,1.84
+Spain,Ceuta,ceut.spa9014,fixed,1.11,1.11,0.08,1.07,1.11,1.06,1.17,0.97,1.24
+Italy,Cagliari,cglr.ita0110,fixed,1.41,1.42,0.27,1.34,1.47,1.21,1.56,0.98,1.86
+United States,Chicago,chcg.usa7306,fixed,1.64,1.65,0.16,1.59,1.67,1.53,1.73,1.37,1.88
+Japan,Chiba,chib.jap1115,fixed,1.96,1.97,0.14,1.88,1.95,1.86,2.04,1.74,2.2
+Chile,Ñuble,chll.chl0414,fixed,1.42,1.43,0.1,1.37,1.42,1.35,1.48,1.26,1.58
+United Kingdom,Chelmsford,chlm.uk9016,fixed,1.69,1.69,0.12,1.67,1.73,1.61,1.76,1.48,1.88
+United Kingdom,Cheltenham,chlt.uk9016,fixed,1.39,1.4,0.19,1.33,1.42,1.22,1.47,1.09,1.68
+United States,Charlotte,chrl.usa7306,fixed,1.46,1.47,0.11,1.44,1.49,1.39,1.53,1.3,1.64
+United States,Charleston,chsc.usa7306,fixed,1.29,1.3,0.22,1.24,1.34,1.14,1.43,0.95,1.67
+United Kingdom,Chesterfield,chst.uk9016,fixed,1.42,1.43,0.13,1.39,1.46,1.32,1.5,1.22,1.63
+United States,chattanooga,chtt.usa7306,fixed,1.25,1.27,0.33,1.15,1.3,1.06,1.47,0.72,1.78
+United States,charleston (WV),chwv.usa7306,fixed,1.19,1.2,0.43,1.08,1.29,0.95,1.49,0.54,1.96
+United Kingdom,Colchester,clch.uk9016,fixed,1.35,1.35,0.23,1.28,1.38,1.22,1.51,0.96,1.7
+France,puy de dome,clfr.fra0014,fixed,1.46,1.46,0.2,1.42,1.51,1.32,1.58,1.14,1.79
+Canada,Calgary Zone,clgr.can8615,fixed,1.42,1.42,0.07,1.4,1.44,1.37,1.47,1.31,1.55
+United States,Columbus,clmb.usa7306,fixed,1.4,1.4,0.09,1.36,1.4,1.34,1.46,1.25,1.55
+United States,Colorado Springs,clrs.usa7306,fixed,1.29,1.29,0.08,1.25,1.29,1.24,1.34,1.16,1.42
+United States,Cleveland,clvl.usa7306,fixed,1.46,1.47,0.08,1.44,1.48,1.41,1.52,1.34,1.6
+United Kingdom,Cambridge,cmbr.uk9016,fixed,1.34,1.35,0.28,1.27,1.4,1.19,1.55,0.91,1.82
+United States,Cincinnati,cncn.usa7306,fixed,1.6,1.6,0.13,1.58,1.64,1.51,1.67,1.4,1.81
+United States,Canton,cntn.usa7306,fixed,1.39,1.4,0.23,1.3,1.42,1.23,1.53,1,1.75
+United States,Columbia,colm.usa7306,fixed,1.53,1.53,0.11,1.5,1.55,1.45,1.59,1.35,1.7
+Spain,Cordoba,crdb.spa9014,fixed,1.33,1.33,0.08,1.31,1.35,1.27,1.37,1.21,1.46
+United States,carlisle,crls.usa7306,fixed,1.86,1.87,0.2,1.83,1.91,1.74,1.98,1.54,2.18
+United States,corpus christi,crpc.usa7306,fixed,1.37,1.39,0.34,1.26,1.41,1.13,1.56,0.85,1.91
+Brazil,Cuiabá,crtb.bra9711,fixed,1.05,1.05,0.11,1.03,1.08,0.99,1.13,0.87,1.22
+United Kingdom,Crawley,crwl.uk9016,fixed,1.33,1.34,0.16,1.26,1.33,1.22,1.42,1.1,1.6
+Spain,Castellon,cstl.spa9014,fixed,1.53,1.54,0.08,1.53,1.57,1.47,1.58,1.41,1.67
+Brazil,Curitiba,cuib.bra9711,fixed,1.05,1.05,0.11,1.03,1.08,0.96,1.1,0.86,1.22
+Spain,Cuenca,cunc.spa9014,fixed,1.44,1.44,0.07,1.41,1.44,1.39,1.49,1.32,1.56
+United Kingdom,Coventry,cvnt.uk9016,fixed,1.37,1.37,0.07,1.35,1.38,1.32,1.42,1.25,1.5
+South Korea,daegu,daeg.kor9718,fixed,1.31,1.32,0.1,1.28,1.33,1.24,1.37,1.16,1.47
+United States,Layton,davs.usa7306,fixed,1.37,1.38,0.12,1.32,1.38,1.29,1.45,1.19,1.58
+France,cote dor,dijn.fra0014,fixed,1.63,1.64,0.12,1.57,1.63,1.55,1.7,1.45,1.83
+United States,Dallas,dlls.usa7306,fixed,1.47,1.47,0.07,1.44,1.47,1.43,1.52,1.36,1.59
+United Kingdom,Doncaster,dncs.uk9016,fixed,1.29,1.3,0.13,1.25,1.31,1.2,1.36,1.09,1.5
+United States,Denver,dnvr.usa7306,fixed,1.65,1.65,0.07,1.62,1.66,1.6,1.69,1.53,1.75
+United States,Dover,dovr.usa7306,fixed,1.6,1.6,0.24,1.53,1.63,1.4,1.71,1.22,1.98
+United Kingdom,Derby,drby.uk9016,fixed,1.36,1.36,0.07,1.35,1.38,1.31,1.4,1.26,1.5
+United States,Durham,drhm.usa7306,fixed,1.25,1.25,0.14,1.22,1.28,1.15,1.33,1.01,1.47
+Germany,Dresden,drsd.ger9315,fixed,1.27,1.28,0.08,1.25,1.29,1.21,1.31,1.14,1.4
+Germany,Dortmund,drtm.ger9315,fixed,1.25,1.25,0.09,1.24,1.28,1.2,1.31,1.1,1.39
+United States,Des Moines,dsmn.usa7306,fixed,1.35,1.35,0.12,1.3,1.35,1.26,1.41,1.15,1.54
+Germany,Duesseldorf,dssl.ger9315,fixed,1.25,1.25,0.09,1.23,1.28,1.18,1.3,1.09,1.4
+United States,Detroit,dtrt.usa7306,fixed,1.6,1.6,0.11,1.56,1.62,1.52,1.67,1.41,1.77
+United States,Davenport,dvnp.usa7306,fixed,1.46,1.46,0.26,1.42,1.54,1.3,1.62,1.04,1.85
+United States,Daytona Beach,dytb.usa7306,fixed,1.4,1.41,0.25,1.36,1.47,1.22,1.55,0.99,1.81
+United States,Dayton,dytn.usa7306,fixed,1.52,1.53,0.22,1.47,1.58,1.35,1.64,1.17,1.89
+Canada,Edmonton Zone,edmn.can8615,fixed,1.35,1.35,0.13,1.31,1.38,1.25,1.42,1.14,1.57
+United States,El centro,elcn.usa7306,fixed,1.12,1.13,0.43,1,1.2,0.79,1.35,0.41,1.81
+United States,El Paso,elps.usa7306,fixed,1.4,1.4,0.25,1.25,1.36,1.25,1.55,1.01,1.79
+United States,Elizabeth,elzb.usa7306,fixed,1.62,1.63,0.1,1.62,1.67,1.56,1.68,1.47,1.78
+United States,Essex,essx.usa7306,fixed,1.46,1.47,0.09,1.43,1.47,1.4,1.52,1.31,1.6
+United States,Everett,evrt.usa7306,fixed,1.42,1.43,0.11,1.41,1.46,1.33,1.48,1.25,1.61
+United States,Fargo,farg.usa7306,fixed,1.19,1.2,0.39,1.1,1.29,0.92,1.43,0.57,1.82
+United States,flint,flnt.usa7306,fixed,1.47,1.47,0.12,1.43,1.49,1.38,1.54,1.25,1.66
+Italy,Firenze,flrn.ita0110,fixed,1.62,1.63,0.08,1.61,1.65,1.57,1.67,1.49,1.75
+Germany,Frankfurt,frnk.ger9315,fixed,1.42,1.42,0.09,1.39,1.43,1.35,1.46,1.29,1.57
+United States,Fresno,frsn.usa7306,fixed,1.3,1.31,0.24,1.19,1.3,1.13,1.42,0.92,1.7
+Brazil,Fortaleza,frtl.bra9711,fixed,1.24,1.24,0.07,1.22,1.26,1.2,1.29,1.12,1.36
+United States,fort lauderdale,ftld.usa7306,fixed,1.56,1.56,0.11,1.51,1.56,1.49,1.62,1.4,1.74
+United States,fort myers,ftmy.usa7306,fixed,1.45,1.46,0.12,1.43,1.48,1.38,1.53,1.27,1.64
+United States,fort pierce,ftpr.usa7306,fixed,1.46,1.48,0.2,1.38,1.47,1.33,1.58,1.14,1.78
+United States,fort worth,ftwr.usa7306,fixed,1.38,1.38,0.11,1.33,1.39,1.29,1.44,1.2,1.57
+United States,Fort Wayne,ftwy.usa7306,fixed,1.21,1.23,0.45,1.08,1.27,0.93,1.5,0.47,1.93
+Japan,Fukuoka,fukk.jap1115,fixed,1.47,1.48,0.11,1.43,1.48,1.38,1.53,1.3,1.66
+United States,Gary,gary.usa7306,fixed,1.48,1.48,0.16,1.42,1.49,1.37,1.57,1.23,1.73
+Mexico,JALISCO,gdlj.mex9814,fixed,1.08,1.08,0.1,1.04,1.08,1.01,1.13,0.93,1.25
+Spain,Guadalajara,gdlj.spa9014,fixed,1.51,1.52,0.07,1.5,1.53,1.46,1.55,1.41,1.62
+Italy,Genova,geno.ita0110,fixed,1.4,1.42,0.22,1.34,1.44,1.22,1.5,1.05,1.75
+Switzerland,Geneva,genv.sui9513,fixed,1.66,1.67,0.11,1.64,1.69,1.59,1.74,1.47,1.84
+Spain,Girona,girn.spa9014,fixed,1.76,1.76,0.08,1.75,1.79,1.72,1.82,1.65,1.9
+United Kingdom,Gloucester,glcs.uk9016,fixed,1.48,1.49,0.17,1.45,1.53,1.35,1.57,1.2,1.74
+China,Guangzhou,gngz.chi9615,fixed,0.96,0.96,0.11,0.95,1.01,0.88,1.02,0.78,1.14
+Brazil,Goiânia,goin.bra9711,fixed,1.23,1.23,0.12,1.17,1.23,1.15,1.3,1.04,1.41
+France,isere,grnb.fra0014,fixed,1.45,1.46,0.12,1.42,1.48,1.37,1.52,1.25,1.64
+Spain,Granada,grnd.spa9014,fixed,1.51,1.52,0.09,1.5,1.54,1.46,1.57,1.37,1.66
+United States,greensburg,grng.usa7306,fixed,1.46,1.47,0.16,1.43,1.51,1.36,1.56,1.21,1.73
+United States,Grand haven,grnh.usa7306,fixed,1.3,1.31,0.21,1.24,1.33,1.19,1.46,0.97,1.65
+United States,Grand Rapids,grnr.usa7306,fixed,1.32,1.32,0.13,1.27,1.33,1.24,1.41,1.12,1.55
+United States,Greensboro,grns.usa7306,fixed,1.36,1.36,0.16,1.28,1.36,1.26,1.47,1.1,1.62
+United States,greenville,grnv.usa7306,fixed,1.41,1.42,0.14,1.37,1.44,1.32,1.5,1.18,1.62
+United States,Gainesville,gsns.usa7306,fixed,1.23,1.24,0.11,1.21,1.26,1.15,1.29,1.07,1.42
+Ecuador,Guayas,gyql.ecu1418,fixed,1.38,1.39,0.22,1.32,1.43,1.22,1.49,1.02,1.72
+Vietnam,H? Chí Minh,hcmc.vie0913,fixed,1.09,1.1,0.32,1.05,1.19,0.87,1.28,0.61,1.65
+Finland,Helsingin ja Uudenmaan,hlsn.fnl9414,fixed,1.36,1.37,0.08,1.34,1.39,1.3,1.42,1.24,1.51
+Germany,Hamburg,hmbr.ger9315,fixed,1.66,1.66,0.09,1.64,1.68,1.61,1.72,1.53,1.81
+Canada,City of Hamilton Health Unit,hmlt.can8615,fixed,1.56,1.57,0.23,1.52,1.62,1.38,1.67,1.19,1.93
+China,Hangzhou,hngk.chi9615,fixed,1.03,1.04,0.15,1.01,1.08,0.92,1.11,0.79,1.28
+China,Hong Kong,hngz.chi9615,fixed,1.11,1.11,0.15,1.03,1.1,1,1.19,0.86,1.35
+United States,honolulu,hnll.usa7306,fixed,1.48,1.49,0.19,1.42,1.51,1.34,1.59,1.17,1.79
+Germany,Hannover,hnnv.ger9315,fixed,1.32,1.32,0.08,1.27,1.31,1.26,1.37,1.18,1.45
+United States,Harrisburg,hrrs.usa7306,fixed,1.51,1.52,0.21,1.46,1.56,1.36,1.63,1.18,1.86
+United States,Hartford,hrtf.usa7306,fixed,1.47,1.47,0.1,1.44,1.49,1.4,1.53,1.32,1.64
+United States,Houston,hstn.usa7306,fixed,1.5,1.5,0.11,1.46,1.52,1.42,1.56,1.3,1.67
+Spain,Huelva,hulv.spa9014,fixed,1.24,1.24,0.08,1.22,1.26,1.19,1.29,1.11,1.37
+Spain,Huesca,husc.spa9014,fixed,1.28,1.28,0.07,1.26,1.29,1.22,1.31,1.17,1.38
+South Korea,incheon,inch.kor9718,fixed,1.32,1.34,0.28,1.31,1.44,1.13,1.47,0.89,1.76
+United States,Indianapolis,indn.usa7306,fixed,1.4,1.41,0.12,1.38,1.44,1.32,1.48,1.19,1.6
+United Kingdom,Ipswich,ipsw.uk9016,fixed,1.37,1.38,0.31,1.36,1.51,1.13,1.52,0.89,1.88
+United States,Iowa city,iwct.usa7306,fixed,1.64,1.64,0.14,1.61,1.67,1.55,1.72,1.42,1.86
+Spain,Jaen,jaen.spa9014,fixed,1.52,1.52,0.07,1.51,1.54,1.46,1.55,1.41,1.64
+United States,Jacksonville,jcks.usa7306,fixed,1.58,1.58,0.09,1.55,1.59,1.51,1.64,1.42,1.73
+Brazil,João Pessoa,jpss.bra9711,fixed,1.29,1.29,0.09,1.27,1.32,1.21,1.33,1.14,1.44
+United States,Jersey city,jrsc.usa7306,fixed,1.74,1.74,0.09,1.71,1.75,1.68,1.8,1.59,1.88
+United States,Kalamazoo,klmz.usa7306,fixed,1.44,1.45,0.29,1.35,1.48,1.2,1.56,0.98,1.91
+United States,kenosha,knsh.usa7306,fixed,1.42,1.44,0.29,1.28,1.41,1.23,1.59,0.93,1.87
+United States,Kansas City,knss.usa7306,fixed,1.44,1.44,0.08,1.41,1.44,1.38,1.48,1.32,1.57
+United States,Knoxville,knxv.usa7306,fixed,1.31,1.32,0.18,1.25,1.33,1.17,1.4,1.02,1.61
+Japan,Hyogo,kobe.jap1115,fixed,0.92,0.93,0.11,0.9,0.96,0.85,1,0.75,1.13
+Germany,Koeln,koln.ger9315,fixed,1.59,1.59,0.1,1.56,1.6,1.52,1.64,1.43,1.75
+Kuwait,Kuwait,kuwt.kuw0016,fixed,1.3,1.31,0.2,1.23,1.33,1.13,1.39,0.97,1.61
+United Kingdom,Leicester,lcst.uk9016,fixed,1.43,1.44,0.11,1.37,1.42,1.37,1.51,1.27,1.62
+Mexico,GUANAJUATO,leon.mex9814,fixed,1.19,1.19,0.1,1.14,1.19,1.12,1.25,1.03,1.35
+Spain,Leon,leon.spa9014,fixed,1.64,1.65,0.08,1.61,1.65,1.58,1.69,1.51,1.78
+United States,lafayette (IN),lfin.usa7306,fixed,1.37,1.39,0.22,1.29,1.4,1.2,1.5,1.01,1.74
+Spain,La_Rioja,lgrn.spa9014,fixed,1.54,1.54,0.06,1.51,1.54,1.49,1.57,1.43,1.64
+France,seine maritime,lhvr.fra0014,fixed,1.53,1.53,0.1,1.5,1.55,1.46,1.59,1.37,1.68
+France,nord,lill.fra0014,fixed,1.61,1.61,0.1,1.57,1.62,1.53,1.66,1.44,1.77
+Peru,LIMA,lima.per0814,fixed,1.45,1.45,0.12,1.43,1.49,1.35,1.51,1.25,1.64
+United States,Lake charles,lkch.usa7306,fixed,1.29,1.3,0.22,1.23,1.33,1.12,1.4,0.91,1.62
+United States,lakeland,lkln.usa7306,fixed,1.53,1.53,0.16,1.48,1.55,1.41,1.61,1.26,1.79
+Spain,Lleida,lled.spa9014,fixed,1.51,1.51,0.07,1.48,1.52,1.46,1.55,1.4,1.63
+United States,lancaster,lncs.usa7306,fixed,1.56,1.57,0.15,1.54,1.6,1.47,1.66,1.32,1.8
+United Kingdom,London,lndn.uk9016,fixed,1.78,1.78,0.1,1.75,1.8,1.71,1.84,1.63,1.94
+France,pas de calais,lndu.fra0014,fixed,1.51,1.52,0.22,1.46,1.56,1.37,1.65,1.17,1.87
+United States,lansing,lnsn.usa7306,fixed,1.4,1.4,0.17,1.36,1.43,1.29,1.5,1.13,1.67
+China,Lanzhou,lnzh.chi9615,fixed,1.03,1.04,0.39,0.86,1.05,0.72,1.24,0.37,1.66
+United States,louisville,losv.usa7306,fixed,1.34,1.37,0.32,1.28,1.41,1.11,1.49,0.87,1.87
+Germany,Leipzig,lpzg.ger9315,fixed,1.21,1.22,0.07,1.2,1.23,1.16,1.25,1.09,1.33
+United States,Los Angeles,lsan.usa7306,fixed,1.78,1.79,0.14,1.77,1.83,1.64,1.84,1.54,2
+Switzerland,Vaud,lsnn.sui9513,fixed,1.55,1.55,0.09,1.53,1.57,1.49,1.61,1.39,1.7
+United States,las vegas,lsvg.usa7306,fixed,1.64,1.65,0.21,1.58,1.68,1.5,1.75,1.3,1.97
+United States,Little Rock,lttr.usa7306,fixed,1.38,1.4,0.28,1.31,1.43,1.18,1.52,0.93,1.84
+Switzerland,Ticino,lugn.sui9513,fixed,1.54,1.54,0.08,1.52,1.56,1.48,1.59,1.42,1.69
+Spain,Lugo,lugo.spa9014,fixed,1.24,1.24,0.07,1.22,1.26,1.19,1.28,1.14,1.35
+United Kingdom,Luton,lutn.uk9016,fixed,1.38,1.38,0.09,1.35,1.39,1.31,1.42,1.23,1.51
+United Kingdom,Liverpool,lvrp.uk9016,fixed,1.44,1.44,0.07,1.42,1.45,1.39,1.48,1.33,1.54
+France,rhone,lyon.fra0014,fixed,1.52,1.52,0.08,1.5,1.53,1.46,1.57,1.39,1.66
+Brazil,Maceió,mace.bra9711,fixed,1.65,1.65,0.11,1.62,1.68,1.56,1.71,1.46,1.83
+Spain,Malaga,malg.spa9014,fixed,1.71,1.71,0.08,1.69,1.73,1.66,1.76,1.59,1.84
+Philippines,Manila City,manl.phi0610,fixed,1.31,1.33,0.32,1.25,1.4,1.1,1.49,0.84,1.86
+Brazil,Manaus,mans.bra9711,fixed,1.27,1.28,0.08,1.26,1.3,1.22,1.32,1.14,1.4
+United States,mcallen,mcll.usa7306,fixed,0.99,1.01,0.41,0.91,1.1,0.73,1.26,0.34,1.67
+United States,middlesex,mddl.usa7306,fixed,1.65,1.66,0.1,1.64,1.69,1.59,1.71,1.5,1.8
+United States,Middletown,mddt.usa7306,fixed,1.69,1.69,0.17,1.65,1.72,1.59,1.8,1.4,1.95
+Spain,Madrid,mdrd.spa9014,fixed,1.38,1.38,0.08,1.33,1.37,1.33,1.43,1.26,1.51
+United Kingdom,Maidstone,mdst.uk9016,fixed,1.28,1.29,0.26,1.2,1.32,1.11,1.44,0.86,1.7
+United States,Modesto,mdst.usa7306,fixed,1.4,1.41,0.33,1.24,1.4,1.18,1.6,0.87,1.94
+United States,madison (WI),mdwi.usa7306,fixed,1.17,1.17,0.1,1.14,1.18,1.1,1.23,1.02,1.33
+United Kingdom,Medway,mdwt.uk9016,fixed,1.42,1.42,0.08,1.4,1.43,1.36,1.47,1.27,1.55
+United States,Miami,miam.usa7306,fixed,1.71,1.72,0.1,1.67,1.72,1.64,1.77,1.56,1.88
+Italy,Milano,miln.ita0110,fixed,1.63,1.63,0.09,1.59,1.63,1.56,1.68,1.48,1.77
+Australia,Melbourne,mlbr.aus8809,fixed,1.29,1.29,0.07,1.26,1.3,1.24,1.33,1.18,1.4
+United States,melbourne,mlbr.usa7306,fixed,1.35,1.37,0.35,1.24,1.4,1.09,1.52,0.81,1.92
+Spain,Melilla,mlll.spa9014,fixed,1.11,1.11,0.09,1.07,1.12,1.06,1.17,0.98,1.26
+United Kingdom,Milton Keynes,mltk.uk9016,fixed,1.24,1.25,0.1,1.2,1.24,1.19,1.31,1.09,1.41
+United States,milwaukee,mlwk.usa7306,fixed,1.33,1.34,0.1,1.29,1.34,1.26,1.4,1.18,1.5
+United States,memphis,mmph.usa7306,fixed,1.32,1.33,0.12,1.29,1.35,1.24,1.4,1.12,1.53
+Germany,Muenchen,mnch.ger9315,fixed,1.82,1.82,0.1,1.8,1.85,1.76,1.89,1.66,1.98
+United Kingdom,Manchester,mnch.uk9016,fixed,1.63,1.63,0.08,1.6,1.64,1.58,1.69,1.49,1.76
+United States,Toms River,mnmt.usa7306,fixed,1.48,1.49,0.09,1.46,1.5,1.43,1.55,1.33,1.62
+United States,minneapolis,mnnp.usa7306,fixed,1.3,1.3,0.09,1.28,1.33,1.24,1.35,1.17,1.45
+United Kingdom,Mansfield,mnsf.uk9016,fixed,1.09,1.1,0.39,0.95,1.14,0.82,1.31,0.5,1.76
+United States,Montgomery,mntg.usa7306,fixed,1.38,1.4,0.27,1.31,1.44,1.2,1.54,0.94,1.8
+France,herault,mntp.fra0014,fixed,1.41,1.41,0.07,1.39,1.42,1.36,1.45,1.3,1.53
+Canada,Region de Montreal,mntr.can8615,fixed,1.54,1.56,0.22,1.43,1.53,1.41,1.68,1.21,1.9
+Mexico,NUEVO LEÓN,mntr.mex9814,fixed,0.89,0.9,0.13,0.86,0.92,0.81,0.98,0.68,1.1
+Uruguay,MONTEVIDEO,mntv.uru1216,fixed,0.91,0.91,0.09,0.87,0.92,0.85,0.97,0.78,1.07
+United States,Mobile,mobl.usa7306,fixed,1.46,1.47,0.22,1.44,1.55,1.3,1.59,1.11,1.83
+United States,Monroe,monr.usa7306,fixed,1.49,1.5,0.2,1.43,1.52,1.36,1.61,1.19,1.82
+United States,Upper Marlboro,mrlb.usa7306,fixed,1.61,1.61,0.08,1.57,1.6,1.55,1.65,1.49,1.73
+France,bouches du rhone,mrsl.fra0014,fixed,1.44,1.44,0.08,1.42,1.46,1.39,1.49,1.31,1.56
+Spain,Murcia,murc.spa9014,fixed,1.67,1.68,0.08,1.65,1.69,1.62,1.72,1.55,1.81
+United States,Myrtle Beach,myrb.usa7306,fixed,1.36,1.36,0.22,1.3,1.4,1.2,1.47,1.01,1.73
+Japan,Aichi,nagy.jap1115,fixed,1.44,1.44,0.09,1.42,1.46,1.38,1.5,1.3,1.59
+United States,Nampa,namp.usa7306,fixed,1.32,1.34,0.3,1.22,1.35,1.13,1.48,0.86,1.79
+United States,Nashua,nash.usa7306,fixed,1.6,1.61,0.16,1.55,1.62,1.48,1.68,1.33,1.85
+United States,Melville,nass.usa7306,fixed,1.84,1.85,0.12,1.8,1.86,1.76,1.92,1.66,2.05
+Brazil,Natal,natl.bra9711,fixed,1.21,1.21,0.12,1.17,1.22,1.14,1.29,1.01,1.39
+France,alpes maritimes,nice.fra0014,fixed,1.6,1.6,0.09,1.58,1.63,1.54,1.65,1.45,1.74
+United States,Niles,nils.usa7306,fixed,1.3,1.32,0.27,1.22,1.34,1.13,1.47,0.88,1.74
+France,meuse,nncy.fra0014,fixed,1.46,1.47,0.26,1.29,1.41,1.28,1.6,1.04,1.86
+China,Nanjing,nnjn.chi9615,fixed,1.01,1.01,0.11,0.99,1.04,0.94,1.07,0.85,1.19
+France,loire atlantique,nnts.fra0014,fixed,1.56,1.57,0.14,1.54,1.6,1.47,1.66,1.33,1.8
+Italy,Napoli,npls.ita0110,fixed,1.55,1.57,0.15,1.48,1.55,1.45,1.64,1.32,1.8
+United States,Norfolk,nrfl.usa7306,fixed,1.58,1.58,0.11,1.53,1.58,1.49,1.63,1.41,1.75
+United Kingdom,Northampton,nrth.uk9016,fixed,1.45,1.45,0.15,1.4,1.47,1.36,1.56,1.19,1.68
+United States,nashville,nshv.usa7306,fixed,1.41,1.41,0.1,1.39,1.44,1.34,1.47,1.25,1.56
+United Kingdom,Nottingham,nttn.uk9016,fixed,1.38,1.38,0.08,1.36,1.39,1.33,1.43,1.25,1.5
+United States,newburgh,nwbr.usa7306,fixed,1.43,1.43,0.08,1.43,1.47,1.37,1.48,1.29,1.56
+United States,new haven,nwhv.usa7306,fixed,1.6,1.61,0.13,1.57,1.63,1.52,1.68,1.4,1.81
+United States,new london,nwln.usa7306,fixed,1.44,1.46,0.4,1.35,1.52,1.18,1.67,0.83,2.08
+United States,New Orleans,nwor.usa7306,fixed,1.53,1.54,0.09,1.5,1.54,1.47,1.59,1.39,1.69
+United States,newark,nwrk.usa7306,fixed,1.68,1.68,0.11,1.64,1.69,1.6,1.74,1.51,1.86
+United States,New York,nwyr.usa7306,fixed,2.1,2.11,0.17,2.03,2.11,1.99,2.21,1.83,2.38
+United States,Oklahoma City,oklh.usa7306,fixed,1.34,1.34,0.11,1.3,1.36,1.27,1.41,1.16,1.52
+United States,Oakland,okln.usa7306,fixed,1.64,1.64,0.09,1.63,1.67,1.56,1.68,1.49,1.79
+United States,Omaha,omah.usa7306,fixed,1.42,1.43,0.1,1.4,1.45,1.36,1.49,1.25,1.59
+United States,Orlando,orln.usa7306,fixed,1.53,1.54,0.09,1.49,1.54,1.47,1.59,1.39,1.68
+Spain,Ourense,orns.spa9014,fixed,1.48,1.48,0.08,1.47,1.51,1.43,1.54,1.35,1.62
+Japan,Osaka,osak.jap1115,fixed,0.9,0.91,0.11,0.91,0.96,0.82,0.97,0.72,1.09
+Norway,Oslo,oslo.nor6918,fixed,1.31,1.32,0.1,1.28,1.33,1.24,1.37,1.17,1.48
+Canada,City of Ottawa Health Unit,ottw.can8615,fixed,1.69,1.69,0.18,1.64,1.72,1.55,1.78,1.38,1.98
+Spain,Asturias,ovid.spa9014,fixed,1.41,1.41,0.09,1.4,1.45,1.35,1.46,1.26,1.54
+United Kingdom,Oxford,oxfr.uk9016,fixed,1.45,1.46,0.1,1.43,1.47,1.38,1.51,1.29,1.62
+Italy,Padova,padu.ita0110,fixed,1.47,1.47,0.08,1.45,1.48,1.41,1.52,1.34,1.6
+France,paris,pars.fra0014,fixed,1.46,1.47,0.09,1.45,1.5,1.4,1.51,1.32,1.6
+Mexico,PUEBLA,pbtx.mex9814,fixed,1.39,1.39,0.08,1.35,1.39,1.33,1.44,1.27,1.52
+Spain,Las_Palmas,pgcn.spa9014,fixed,1.24,1.25,0.09,1.23,1.27,1.18,1.29,1.1,1.38
+United States,philadelphia,phll.usa7306,fixed,1.86,1.86,0.1,1.82,1.87,1.79,1.92,1.69,2.03
+United States,Phoenix,phnx.usa7306,fixed,1.36,1.36,0.08,1.32,1.36,1.3,1.41,1.23,1.5
+Italy,Pisa,pisa.ita0110,fixed,1.54,1.55,0.17,1.51,1.59,1.43,1.65,1.28,1.81
+United States,Palm beach,plmb.usa7306,fixed,1.56,1.57,0.09,1.54,1.58,1.5,1.62,1.41,1.71
+Spain,Baleares,plmm.spa9014,fixed,1.67,1.67,0.08,1.65,1.68,1.62,1.72,1.55,1.8
+Spain,Palencia,plnc.spa9014,fixed,1.21,1.22,0.07,1.18,1.21,1.17,1.26,1.1,1.33
+Italy,Palermo,plrm.ita0110,fixed,1.36,1.38,0.44,1.21,1.41,1.07,1.63,0.67,2.1
+United Kingdom,Plymouth,plym.uk9016,fixed,1.46,1.46,0.13,1.43,1.49,1.36,1.53,1.24,1.67
+United States,Plymouth,plym.usa7306,fixed,1.45,1.45,0.11,1.4,1.45,1.37,1.5,1.28,1.63
+Spain,Navarra,pmpl.spa9014,fixed,1.82,1.82,0.08,1.81,1.85,1.77,1.88,1.69,1.95
+United States,Pensacola,pnsc.usa7306,fixed,1.15,1.17,0.34,1.02,1.17,0.9,1.32,0.59,1.7
+Spain,Pontevedra,pntv.spa9014,fixed,1.6,1.6,0.09,1.57,1.62,1.54,1.66,1.45,1.74
+Czech Republic,CZ01: Prague,prag.cze9415,fixed,1.35,1.36,0.09,1.31,1.36,1.28,1.4,1.21,1.5
+United States,Portland,pror.usa7306,fixed,1.53,1.54,0.1,1.51,1.55,1.47,1.59,1.38,1.7
+United States,Provo,prov.usa7306,fixed,1.55,1.56,0.2,1.49,1.58,1.44,1.7,1.24,1.89
+United Kingdom,Preston,prst.uk9016,fixed,1.18,1.19,0.29,1.08,1.22,1,1.37,0.73,1.67
+Brazil,Porto Alegre,prta.bra9711,fixed,1.06,1.06,0.13,1.01,1.07,0.97,1.13,0.86,1.28
+United States,portland (ME),prtl.usa7306,fixed,1.32,1.33,0.11,1.32,1.37,1.25,1.39,1.14,1.49
+United States,Providence,prvd.usa7306,fixed,1.45,1.48,0.22,1.39,1.49,1.29,1.56,1.13,1.83
+United Kingdom,Peterborough,ptrb.uk9016,fixed,1.35,1.35,0.14,1.28,1.35,1.25,1.43,1.11,1.57
+United States,pittsburgh,ptts.usa7306,fixed,1.44,1.45,0.08,1.43,1.46,1.39,1.49,1.31,1.57
+Philippines,Quezon City,quzn.phi0610,fixed,1.46,1.47,0.16,1.39,1.46,1.36,1.56,1.22,1.73
+United States,Richmond,rchm.usa7306,fixed,1.74,1.74,0.09,1.72,1.77,1.67,1.79,1.59,1.89
+United States,rochester,rchs.usa7306,fixed,1.45,1.45,0.08,1.43,1.47,1.4,1.5,1.32,1.57
+United States,Rockville,rckv.usa7306,fixed,1.49,1.49,0.07,1.47,1.51,1.44,1.53,1.37,1.6
+United Kingdom,Reading,rdng.uk9016,fixed,1.4,1.41,0.1,1.36,1.41,1.33,1.46,1.25,1.57
+United States,reading,rdng.usa7306,fixed,1.52,1.52,0.18,1.48,1.57,1.4,1.64,1.22,1.82
+Brazil,Recife,recf.bra9711,fixed,1.42,1.42,0.08,1.4,1.44,1.36,1.47,1.29,1.56
+Canada,Regina Qu'Appelle Regional Health Authority,regn.can8615,fixed,1.19,1.2,0.48,1.11,1.33,0.92,1.53,0.41,1.98
+United States,Reno,reno.usa7306,fixed,1.5,1.5,0.1,1.47,1.52,1.42,1.55,1.33,1.67
+United States,raleigh,rlgh.usa7306,fixed,1.5,1.5,0.12,1.45,1.5,1.41,1.56,1.31,1.7
+France,ille et vilaine,rnns.fra0014,fixed,1.47,1.47,0.14,1.44,1.5,1.38,1.56,1.25,1.7
+Italy,Roma,rome.ita0110,fixed,1.51,1.51,0.09,1.51,1.55,1.44,1.56,1.38,1.67
+United States,Riverside,rvrs.usa7306,fixed,1.78,1.78,0.11,1.75,1.8,1.7,1.84,1.6,1.94
+Japan,Saitama,satm.jap1115,fixed,1.29,1.3,0.1,1.27,1.31,1.23,1.36,1.13,1.45
+United States,Sacramento,scrm.usa7306,fixed,1.53,1.56,0.28,1.44,1.55,1.33,1.64,1.11,1.96
+United States,Scranton,scrn.usa7306,fixed,1.64,1.65,0.13,1.6,1.66,1.54,1.7,1.45,1.85
+United States,san diego,sdig.usa7306,fixed,1.51,1.52,0.11,1.47,1.52,1.42,1.57,1.33,1.69
+Spain,Segovia,segv.spa9014,fixed,1.62,1.62,0.08,1.57,1.62,1.56,1.67,1.49,1.76
+South Korea,seoul,seol.kor9718,fixed,1.3,1.31,0.09,1.27,1.32,1.24,1.36,1.15,1.45
+United States,san francisco,sfrn.usa7306,fixed,1.5,1.5,0.1,1.48,1.53,1.43,1.55,1.33,1.64
+United Kingdom,Sheffield,shff.uk9016,fixed,1.64,1.64,0.09,1.6,1.65,1.58,1.7,1.5,1.79
+China,Shanghai,shng.chi9615,fixed,1.09,1.09,0.08,1.05,1.09,1.03,1.14,0.95,1.22
+United Kingdom,Slough,slgh.uk9016,fixed,1.34,1.34,0.08,1.29,1.33,1.29,1.4,1.2,1.47
+Spain,Salamanca,slmn.spa9014,fixed,1.61,1.62,0.09,1.6,1.64,1.56,1.67,1.48,1.76
+United States,Salt Lake City,sltl.usa7306,fixed,1.44,1.45,0.1,1.4,1.44,1.37,1.5,1.28,1.6
+Brazil,São Luís,slus.bra9711,fixed,1.52,1.53,0.09,1.48,1.52,1.47,1.58,1.39,1.67
+Brazil,Salvador,slvd.bra9711,fixed,1.36,1.36,0.08,1.35,1.39,1.31,1.4,1.23,1.49
+United Kingdom,Sunderland,sndr.uk9016,fixed,1.59,1.6,0.12,1.56,1.62,1.5,1.65,1.39,1.79
+United States,San Jose,snjs.usa7306,fixed,1.43,1.43,0.12,1.4,1.46,1.34,1.49,1.25,1.62
+Mexico,SAN LUIS POTOSÍ,snlp.mex9814,fixed,1.03,1.04,0.21,1.01,1.1,0.9,1.15,0.71,1.35
+Spain,Gipuzkoa,snsb.spa9014,fixed,1.47,1.47,0.08,1.45,1.49,1.41,1.52,1.34,1.6
+United States,Santa Barbara,sntb.usa7306,fixed,1.4,1.4,0.15,1.35,1.42,1.27,1.47,1.15,1.63
+Chile,Región Metropolitana,sntg.chl0414,fixed,1.47,1.47,0.08,1.44,1.48,1.41,1.52,1.34,1.61
+Spain,Cantabria,sntn.spa9014,fixed,1.77,1.78,0.11,1.77,1.82,1.7,1.83,1.6,1.94
+United States,san antonio,sntn.usa7306,fixed,1.49,1.5,0.1,1.48,1.52,1.42,1.55,1.34,1.68
+Spain,Soria,sori.spa9014,fixed,1.44,1.45,0.08,1.41,1.45,1.39,1.49,1.31,1.58
+Brazil,São Paulo,spal.bra9711,fixed,1.21,1.22,0.1,1.19,1.24,1.15,1.28,1.04,1.38
+United States,Spokane,spkn.usa7306,fixed,1.22,1.24,0.2,1.16,1.26,1.1,1.36,0.9,1.55
+United States,springfield (MA),spma.usa7306,fixed,1.37,1.38,0.18,1.3,1.38,1.24,1.46,1.1,1.66
+United States,Springfield,spmo.usa7306,fixed,1.13,1.14,0.27,1.04,1.16,0.93,1.27,0.72,1.59
+Japan,Hokkaido,sppr.jap1115,fixed,1.11,1.11,0.1,1.09,1.14,1.05,1.18,0.96,1.28
+United States,Spartanburg,sprt.usa7306,fixed,1.25,1.26,0.32,1.18,1.33,1.03,1.43,0.72,1.77
+United States,sarasota,srst.usa7306,fixed,1.58,1.58,0.1,1.55,1.59,1.51,1.63,1.41,1.73
+United States,St. Charles,stch.usa7306,fixed,1.34,1.37,0.34,1.22,1.37,1.11,1.52,0.8,1.88
+United States,stockton,stck.usa7306,fixed,1.25,1.25,0.1,1.2,1.25,1.18,1.31,1.09,1.42
+United States,East St. Louis,stcl.usa7306,fixed,1.37,1.39,0.38,1.28,1.45,1.13,1.59,0.75,1.96
+Switzerland,Sankt Gallen,stgl.sui9513,fixed,1.3,1.31,0.09,1.28,1.33,1.23,1.35,1.16,1.45
+United States,South bend,sthb.usa7306,fixed,1.5,1.5,0.17,1.43,1.52,1.36,1.59,1.23,1.78
+United States,St. Louis,stls.usa7306,fixed,1.39,1.4,0.16,1.35,1.42,1.26,1.47,1.13,1.65
+United States,stamford,stmf.usa7306,fixed,1.61,1.62,0.11,1.56,1.61,1.53,1.68,1.43,1.8
+United States,St. Petersburg,stpt.usa7306,fixed,1.57,1.57,0.11,1.55,1.6,1.5,1.65,1.38,1.75
+France,bas rhin,strs.fra0014,fixed,1.29,1.29,0.09,1.26,1.31,1.23,1.35,1.14,1.42
+United Kingdom,Southend-on-Sea,stse.uk9016,fixed,1.42,1.43,0.16,1.37,1.45,1.32,1.53,1.16,1.68
+United States,State College,sttc.usa7306,fixed,1.41,1.42,0.39,1.31,1.5,1.14,1.64,0.83,2.1
+United States,Seattle,sttl.usa7306,fixed,1.5,1.51,0.12,1.49,1.55,1.42,1.57,1.31,1.69
+United Kingdom,Stoke-on-Trent,sttr.uk9016,fixed,1.31,1.32,0.19,1.24,1.33,1.2,1.45,1,1.61
+Germany,Stuttgart,sttt.ger9315,fixed,1.27,1.27,0.08,1.25,1.29,1.2,1.31,1.14,1.4
+Spain,Sevilla,svll.spa9014,fixed,1.73,1.73,0.08,1.7,1.74,1.68,1.79,1.6,1.87
+United Kingdom,Swindon,swnd.uk9016,fixed,1.49,1.5,0.21,1.41,1.5,1.34,1.6,1.13,1.81
+Australia,Sydney,sydn.aus8809,fixed,1.68,1.68,0.07,1.65,1.69,1.63,1.73,1.56,1.81
+United States,Tacoma,tacm.usa7306,fixed,1.45,1.45,0.13,1.4,1.46,1.35,1.52,1.25,1.66
+United States,Tampa,tamp.usa7306,fixed,1.42,1.42,0.08,1.39,1.43,1.37,1.48,1.29,1.56
+United States,tucson,tcsn.usa7306,fixed,1.4,1.4,0.11,1.35,1.4,1.32,1.46,1.21,1.58
+Chile,Araucanía,temc.chl0414,fixed,1.24,1.24,0.07,1.24,1.27,1.2,1.29,1.13,1.35
+Spain,Teruel,terl.spa9014,fixed,1.29,1.29,0.07,1.29,1.32,1.24,1.32,1.18,1.4
+United Kingdom,Thanet,thnt.uk9016,fixed,1.37,1.37,0.22,1.27,1.38,1.24,1.53,1.03,1.72
+Mexico,BAJA CALIFORNIA,tijn.mex9814,fixed,1.52,1.53,0.08,1.5,1.54,1.47,1.58,1.39,1.66
+Mexico,MÉXICO,tldl.mex9814,fixed,1.54,1.54,0.08,1.51,1.55,1.49,1.59,1.42,1.67
+United States,Tallahassee,tllh.usa7306,fixed,0.98,0.99,0.42,0.82,1.02,0.68,1.24,0.33,1.7
+Estonia,Tallinn,tlln.est9715,fixed,1.15,1.16,0.12,1.12,1.17,1.07,1.22,0.96,1.33
+China,Tangshan,tngs.chi9615,fixed,1.11,1.12,0.13,1.07,1.14,1.03,1.2,0.91,1.33
+China,Tianjin,tnjn.chi9615,fixed,1.17,1.17,0.09,1.16,1.2,1.1,1.22,1.02,1.32
+Spain,Tenerife,tnrf.spa9014,fixed,1.55,1.55,0.07,1.54,1.58,1.51,1.6,1.44,1.66
+Japan,Tokyo,toky.jap1115,fixed,1.03,1.04,0.24,0.97,1.07,0.88,1.16,0.64,1.41
+Spain,Toledo,told.spa9014,fixed,1.65,1.65,0.08,1.62,1.66,1.6,1.7,1.52,1.77
+United States,Toledo,told.usa7306,fixed,1.41,1.41,0.15,1.36,1.44,1.31,1.5,1.18,1.66
+France,haute garonne,tols.fra0014,fixed,1.52,1.52,0.13,1.48,1.54,1.42,1.59,1.3,1.73
+Canada,City of Toronto Health Unit,trnt.can8615,fixed,1.52,1.52,0.1,1.49,1.53,1.44,1.56,1.36,1.68
+United States,trenton,trnt.usa7306,fixed,1.56,1.56,0.08,1.52,1.56,1.5,1.6,1.42,1.7
+Spain,Tarragona,trrg.spa9014,fixed,1.39,1.39,0.07,1.38,1.42,1.34,1.43,1.27,1.5
+Brazil,Teresina,trsn.bra9711,fixed,1.36,1.36,0.08,1.33,1.36,1.31,1.41,1.23,1.49
+Italy,Torino,trst.ita0110,fixed,1.68,1.69,0.13,1.64,1.7,1.59,1.76,1.48,1.89
+United States,Tulsa,tuls.usa7306,fixed,1.46,1.47,0.22,1.42,1.52,1.3,1.58,1.11,1.81
+Italy,Trieste,turn.ita0110,fixed,1.28,1.29,0.18,1.2,1.29,1.15,1.38,1,1.59
+Italy,Venezia,venc.ita0110,fixed,1.44,1.44,0.09,1.41,1.45,1.38,1.49,1.3,1.59
+United States,Visalia,visl.usa7306,fixed,1.59,1.6,0.22,1.51,1.61,1.46,1.73,1.24,1.95
+Brazil,Vitória,vitr.bra9711,fixed,1.48,1.49,0.11,1.46,1.51,1.39,1.53,1.3,1.66
+Spain,Araba,vitr.spa9014,fixed,1.48,1.48,0.07,1.46,1.49,1.44,1.53,1.37,1.59
+Spain,Valladolid,vlld.spa9014,fixed,1.66,1.66,0.09,1.63,1.67,1.61,1.72,1.52,1.8
+Spain,Valencia,vlnc.spa9014,fixed,1.81,1.81,0.08,1.79,1.82,1.76,1.86,1.7,1.94
+Mexico,CIUDAD DE MÉXICO,vlom.mex9814,fixed,1.3,1.3,0.07,1.28,1.31,1.24,1.33,1.19,1.42
+Chile,Valparaíso,vlpr.chl0414,fixed,1.14,1.15,0.09,1.12,1.16,1.08,1.19,1,1.29
+Canada,Vancouver Health Service Delivery Area,vncv.can8615,fixed,1.63,1.64,0.14,1.59,1.65,1.53,1.71,1.42,1.88
+United States,Vancouver,vncv.usa7306,fixed,0.73,0.78,0.47,0.55,0.78,0.36,0.98,0.02,1.41
+United States,ventura,vntr.usa7306,fixed,1.44,1.45,0.09,1.42,1.45,1.39,1.5,1.29,1.58
+Italy,Viterbo,vtrb.ita0615,fixed,1.42,1.44,0.3,1.29,1.43,1.22,1.61,0.94,1.91
+United States,wichita,wcht.usa7306,fixed,1.38,1.38,0.2,1.28,1.38,1.25,1.51,1.06,1.71
+United Kingdom,Wigan,wign.uk9016,fixed,1.39,1.39,0.15,1.35,1.42,1.27,1.47,1.17,1.64
+United States,Wilmington,wlmn.usa7306,fixed,1.53,1.54,0.09,1.5,1.54,1.47,1.58,1.4,1.67
+Canada,Winnipeg Regional Health Authority,wnnp.can8615,fixed,1.53,1.57,0.39,1.4,1.57,1.25,1.72,0.97,2.17
+United States,Winston-Salem,wnst.usa7306,fixed,1.41,1.42,0.18,1.34,1.42,1.28,1.49,1.12,1.69
+United Kingdom,Worcester,wrcs.uk9016,fixed,1.31,1.32,0.25,1.26,1.38,1.14,1.46,0.92,1.71
+United States,Worcester,wrcs.usa7306,fixed,1.48,1.49,0.11,1.44,1.49,1.42,1.56,1.31,1.66
+United Kingdom,Warrington,wrrn.uk9016,fixed,1.42,1.43,0.18,1.39,1.48,1.3,1.53,1.14,1.71
+United States,washington (DC),wsdc.usa7306,fixed,1.52,1.52,0.08,1.47,1.51,1.46,1.58,1.38,1.66
+United States,Washington,wshn.usa7306,fixed,1.39,1.39,0.08,1.37,1.41,1.34,1.44,1.26,1.52
+United Kingdom,Birmingham,wstm.uk9016,fixed,1.5,1.5,0.07,1.49,1.52,1.45,1.54,1.39,1.61
+China,Wuhan,wuhn.chi9615,fixed,1.72,1.73,0.16,1.69,1.77,1.6,1.8,1.48,1.98
+China,Xi'An,xian.chi9615,fixed,0.99,0.99,0.11,0.96,1.01,0.91,1.05,0.8,1.16
+Japan,Kanagawa,ykhm.jap1115,fixed,1.45,1.46,0.21,1.33,1.44,1.31,1.58,1.12,1.8
+United States,Youngstown,yngs.usa7306,fixed,1.36,1.36,0.12,1.34,1.39,1.25,1.41,1.17,1.56
+United States,york,york.usa7306,fixed,1.55,1.56,0.15,1.5,1.57,1.47,1.66,1.31,1.78
+Spain,Zamora,zamr.spa9014,fixed,1.37,1.37,0.07,1.36,1.4,1.32,1.41,1.25,1.47
+Switzerland,Zurich,zrch.sui9513,fixed,1.68,1.68,0.09,1.65,1.7,1.62,1.74,1.54,1.83
+Spain,Zaragoza,zrgz.spa9014,fixed,1.65,1.65,0.07,1.64,1.67,1.59,1.69,1.53,1.76

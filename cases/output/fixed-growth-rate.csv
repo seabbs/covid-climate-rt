@@ -1,0 +1,410 @@
+countryname,cityname,citycode,type,median,mean,sd,lower_20,upper_20,lower_50,upper_50,lower_90,upper_90
+Singapore,Singapore,Singapore,fixed,-0.04,-0.04,0.05,-0.04,-0.01,-0.06,0,-0.11,0.05
+Spain,A_Coruna,acrn.spa9014,fixed,0.16,0.16,0.02,0.15,0.16,0.15,0.17,0.13,0.2
+United States,Augusta,agst.usa7306,fixed,0.11,0.12,0.1,0.08,0.12,0.04,0.16,-0.03,0.28
+United States,Akron,akrn.usa7306,fixed,0.05,0.05,0.04,0.04,0.06,0.03,0.08,-0.01,0.11
+Spain,Albacete,albc.spa9014,fixed,0.18,0.18,0.02,0.17,0.18,0.16,0.19,0.14,0.21
+United States,Albany,albn.usa7306,fixed,0.03,0.03,0.02,0.02,0.03,0.01,0.04,-0.01,0.07
+United States,Albuquerque,albq.usa7306,fixed,0.13,0.13,0.04,0.12,0.14,0.1,0.16,0.06,0.2
+Spain,Alicante,alcn.spa9014,fixed,0.18,0.18,0.02,0.17,0.18,0.16,0.19,0.14,0.21
+United States,Allentown,alln.usa7306,fixed,0.16,0.17,0.03,0.16,0.17,0.15,0.18,0.12,0.21
+Spain,Almeria,almr.spa9014,fixed,0.05,0.05,0.02,0.05,0.06,0.04,0.06,0.02,0.08
+United States,Anchorage,anch.usa7306,fixed,0.05,0.05,0.06,0.03,0.05,0.01,0.09,-0.05,0.14
+Italy,Ancona,ancn.ita0615,fixed,0.11,0.11,0.03,0.1,0.11,0.09,0.12,0.06,0.15
+United States,Anaheim,anhm.usa7306,fixed,0.13,0.13,0.02,0.12,0.13,0.12,0.14,0.1,0.17
+United States,Ann Arbor,anna.usa7306,fixed,0.09,0.09,0.03,0.09,0.11,0.07,0.11,0.05,0.14
+United States,Annandale,annn.usa7306,fixed,0.09,0.1,0.03,0.08,0.09,0.07,0.11,0.04,0.14
+United States,Austin,astn.usa7306,fixed,0.12,0.12,0.03,0.11,0.12,0.09,0.14,0.06,0.17
+United States,Atlantic City,atlc.usa7306,fixed,0.14,0.15,0.06,0.13,0.15,0.1,0.18,0.05,0.24
+United States,Atlanta,atln.usa7306,fixed,0.17,0.17,0.02,0.16,0.17,0.15,0.18,0.13,0.2
+United States,Aztec,atzc.usa7306,fixed,0.02,0.02,0.12,0,0.05,-0.04,0.11,-0.19,0.2
+Spain,Avila,avil.spa9014,fixed,0.1,0.11,0.02,0.1,0.11,0.09,0.12,0.07,0.14
+Italy,Bari,bari.ita8710,fixed,0.12,0.12,0.07,0.12,0.15,0.06,0.15,0,0.24
+Switzerland,Basel-Stadt,basl.sui9513,fixed,0.11,0.11,0.02,0.11,0.11,0.1,0.12,0.08,0.14
+United States,bath,bath.usa7306,fixed,0.04,0.04,0.11,0.02,0.07,-0.02,0.12,-0.12,0.23
+United Kingdom,Bedford,bdfr.uk9016,fixed,0.09,0.09,0.04,0.08,0.1,0.06,0.11,0.02,0.15
+Spain,Badajoz,bdjz.spa9014,fixed,0.06,0.06,0.02,0.05,0.06,0.04,0.07,0.03,0.09
+Brazil,Belém,belm.bra9711,fixed,0.13,0.13,0.02,0.12,0.13,0.11,0.14,0.09,0.17
+Switzerland,Bern,bern.sui9513,fixed,0.15,0.15,0.02,0.14,0.15,0.14,0.17,0.12,0.19
+United States,Buffalo,bffl.usa7306,fixed,0.13,0.13,0.02,0.11,0.12,0.11,0.14,0.09,0.16
+Spain,Bizkaia,bilb.spa9014,fixed,0.2,0.2,0.02,0.19,0.2,0.19,0.21,0.17,0.24
+China,Beijing,bjng.chi9615,fixed,0.05,0.05,0.02,0.05,0.06,0.04,0.06,0.02,0.08
+United States,Bakersfield,bkrs.usa7306,fixed,0.12,0.13,0.04,0.11,0.13,0.1,0.16,0.06,0.19
+United Kingdom,Blackburn with Darwen,blckb.uk9016,fixed,0.11,0.11,0.05,0.08,0.11,0.08,0.14,0.03,0.2
+United States,boulder,bldr.usa7306,fixed,0.09,0.09,0.03,0.08,0.09,0.07,0.1,0.05,0.13
+Italy,Bologna,blgn.ita0110,fixed,0.14,0.15,0.02,0.13,0.15,0.13,0.16,0.11,0.19
+Brazil,Belo Horizonte,blhr.bra9711,fixed,0.02,0.02,0.03,0.01,0.03,0,0.04,-0.02,0.07
+United States,Baltimore,bltm.usa7306,fixed,0.15,0.15,0.02,0.14,0.15,0.13,0.16,0.12,0.18
+United States,Boise City,bois.usa7306,fixed,0.11,0.11,0.06,0.09,0.11,0.07,0.14,0.02,0.2
+United Kingdom,Brighton and Hove,brah.uk9016,fixed,0.09,0.09,0.02,0.09,0.1,0.08,0.11,0.06,0.13
+Spain,Barcelona,brcl.spa9014,fixed,0.12,0.12,0.03,0.12,0.13,0.1,0.14,0.08,0.17
+United Kingdom,Barnsley,brdv.uk9016,fixed,0.07,0.07,0.03,0.06,0.08,0.05,0.09,0.03,0.12
+France,gironde,brdx.fra0014,fixed,0.16,0.16,0.05,0.15,0.17,0.13,0.19,0.09,0.23
+United States,Paterson,brgn.usa7306,fixed,0.18,0.19,0.03,0.17,0.19,0.16,0.2,0.14,0.23
+Spain,Burgos,brgs.spa9014,fixed,0.15,0.15,0.02,0.14,0.15,0.14,0.16,0.12,0.18
+Germany,Berlin,brln.ger9315,fixed,0.15,0.15,0.02,0.14,0.15,0.13,0.16,0.11,0.18
+United States,Burlington,brln.usa7306,fixed,0.11,0.11,0.04,0.1,0.12,0.08,0.13,0.05,0.17
+Germany,Bremen,brmn.ger9315,fixed,0.12,0.12,0.02,0.11,0.13,0.1,0.13,0.08,0.16
+United States,Birmingham,brmn.usa7306,fixed,0.08,0.08,0.02,0.07,0.09,0.06,0.09,0.04,0.11
+Italy,Brindisi,brnd.ita0110,fixed,0.07,0.07,0.11,0.04,0.09,0.01,0.14,-0.1,0.24
+United States,Barnstable,brns.usa7306,fixed,0.07,0.08,0.03,0.06,0.07,0.05,0.09,0.02,0.13
+Australia,Brisbane,brsb.aus8809,fixed,0.05,0.06,0.02,0.04,0.05,0.04,0.07,0.02,0.09
+Italy,Brescia,brsc.ita8710,fixed,0.17,0.17,0.03,0.17,0.18,0.15,0.19,0.12,0.22
+Brazil,Brasília,brsl.bra9711,fixed,0.05,0.05,0.02,0.04,0.05,0.04,0.06,0.02,0.09
+United Kingdom,"Bristol, City of",brst.uk9016,fixed,0.09,0.09,0.02,0.08,0.09,0.08,0.1,0.06,0.13
+United Kingdom,Basildon,bsld.uk9016,fixed,0.1,0.1,0.04,0.08,0.1,0.07,0.12,0.04,0.16
+United Kingdom,Basingstoke and Deane,bsng.uk9016,fixed,0.14,0.14,0.03,0.13,0.14,0.12,0.16,0.1,0.19
+United States,Boston,bstn.usa7306,fixed,0.2,0.2,0.03,0.2,0.21,0.18,0.22,0.16,0.25
+United States,Baton Rouge,btnr.usa7306,fixed,0.17,0.17,0.03,0.15,0.17,0.14,0.18,0.11,0.22
+South Korea,busan,busn.kor9718,fixed,-0.09,-0.1,0.11,-0.12,-0.06,-0.17,-0.02,-0.29,0.07
+Spain,Cadiz,cadz.spa9014,fixed,0.13,0.13,0.02,0.12,0.13,0.11,0.14,0.09,0.17
+Italy,Catania,catn.ita0615,fixed,0.11,0.11,0.07,0.08,0.11,0.06,0.15,0.01,0.22
+Spain,Caceres,ccrs.spa9014,fixed,0.17,0.17,0.02,0.16,0.17,0.15,0.18,0.14,0.2
+Spain,Ciudad_Real,cddr.spa9014,fixed,0.17,0.17,0.02,0.16,0.18,0.15,0.18,0.14,0.2
+United States,Cedar Rapids,cdrr.usa7306,fixed,0.1,0.1,0.07,0.09,0.12,0.06,0.14,-0.01,0.21
+Spain,Ceuta,ceut.spa9014,fixed,0.03,0.03,0.02,0.02,0.04,0.02,0.05,-0.01,0.07
+Italy,Cagliari,cglr.ita0110,fixed,0.11,0.11,0.07,0.09,0.13,0.06,0.15,0,0.22
+United States,Chicago,chcg.usa7306,fixed,0.16,0.16,0.04,0.16,0.17,0.13,0.18,0.1,0.23
+Japan,Chiba,chib.jap1115,fixed,0.24,0.24,0.03,0.22,0.24,0.21,0.26,0.19,0.3
+Chile,Ñuble,chll.chl0414,fixed,0.11,0.11,0.02,0.1,0.11,0.09,0.12,0.07,0.15
+United Kingdom,Chelmsford,chlm.uk9016,fixed,0.17,0.18,0.03,0.17,0.18,0.15,0.19,0.13,0.23
+United Kingdom,Cheltenham,chlt.uk9016,fixed,0.1,0.1,0.05,0.08,0.11,0.07,0.14,0.03,0.18
+United States,Charlotte,chrl.usa7306,fixed,0.12,0.12,0.03,0.11,0.12,0.1,0.14,0.08,0.17
+United States,Charleston,chsc.usa7306,fixed,0.08,0.08,0.06,0.06,0.09,0.04,0.11,-0.01,0.17
+United Kingdom,Chesterfield,chst.uk9016,fixed,0.11,0.11,0.03,0.1,0.12,0.09,0.13,0.06,0.16
+United States,chattanooga,chtt.usa7306,fixed,0.07,0.07,0.09,0.05,0.08,0.01,0.12,-0.07,0.21
+United States,charleston (WV),chwv.usa7306,fixed,0.05,0.05,0.12,0.06,0.12,-0.02,0.13,-0.12,0.25
+United Kingdom,Colchester,clch.uk9016,fixed,0.09,0.09,0.06,0.08,0.11,0.06,0.13,-0.01,0.18
+France,puy de dome,clfr.fra0014,fixed,0.12,0.12,0.05,0.1,0.12,0.09,0.15,0.03,0.19
+Canada,Calgary Zone,clgr.can8615,fixed,0.11,0.11,0.02,0.11,0.12,0.1,0.12,0.08,0.14
+United States,Columbus,clmb.usa7306,fixed,0.1,0.1,0.02,0.09,0.11,0.09,0.12,0.07,0.14
+United States,Colorado Springs,clrs.usa7306,fixed,0.08,0.08,0.02,0.07,0.08,0.06,0.09,0.04,0.11
+United States,Cleveland,clvl.usa7306,fixed,0.12,0.12,0.02,0.11,0.12,0.11,0.13,0.09,0.15
+United Kingdom,Cambridge,cmbr.uk9016,fixed,0.09,0.09,0.07,0.08,0.12,0.05,0.14,-0.03,0.21
+United States,Cincinnati,cncn.usa7306,fixed,0.15,0.15,0.03,0.14,0.16,0.13,0.17,0.1,0.2
+United States,Canton,cntn.usa7306,fixed,0.1,0.1,0.06,0.08,0.11,0.06,0.13,0,0.19
+United States,Columbia,colm.usa7306,fixed,0.14,0.14,0.03,0.12,0.14,0.12,0.15,0.09,0.18
+Spain,Cordoba,crdb.spa9014,fixed,0.09,0.09,0.02,0.08,0.09,0.07,0.1,0.06,0.12
+United States,carlisle,crls.usa7306,fixed,0.22,0.22,0.05,0.2,0.22,0.19,0.24,0.14,0.29
+United States,corpus christi,crpc.usa7306,fixed,0.1,0.1,0.09,0.08,0.11,0.04,0.15,-0.04,0.23
+Brazil,Cuiabá,crtb.bra9711,fixed,0.01,0.01,0.03,0.01,0.02,0,0.03,-0.03,0.06
+United Kingdom,Crawley,crwl.uk9016,fixed,0.09,0.09,0.04,0.07,0.09,0.06,0.11,0.03,0.16
+Spain,Castellon,cstl.spa9014,fixed,0.14,0.14,0.02,0.13,0.14,0.12,0.15,0.1,0.17
+Brazil,Curitiba,cuib.bra9711,fixed,0.01,0.01,0.03,0.01,0.02,-0.01,0.03,-0.04,0.06
+Spain,Cuenca,cunc.spa9014,fixed,0.11,0.11,0.02,0.1,0.11,0.1,0.13,0.09,0.14
+United Kingdom,Coventry,cvnt.uk9016,fixed,0.1,0.1,0.02,0.09,0.1,0.08,0.11,0.06,0.13
+South Korea,daegu,daeg.kor9718,fixed,0.08,0.08,0.02,0.07,0.09,0.07,0.1,0.04,0.12
+United States,Layton,davs.usa7306,fixed,0.1,0.1,0.03,0.09,0.11,0.08,0.12,0.05,0.15
+France,cote dor,dijn.fra0014,fixed,0.16,0.16,0.03,0.15,0.17,0.14,0.18,0.12,0.21
+United States,Dallas,dlls.usa7306,fixed,0.12,0.12,0.02,0.12,0.13,0.11,0.13,0.09,0.15
+United Kingdom,Doncaster,dncs.uk9016,fixed,0.08,0.08,0.03,0.07,0.08,0.05,0.09,0.03,0.13
+United States,Denver,dnvr.usa7306,fixed,0.16,0.17,0.02,0.16,0.16,0.15,0.18,0.14,0.19
+United States,Dover,dovr.usa7306,fixed,0.15,0.15,0.06,0.14,0.17,0.12,0.19,0.06,0.25
+United Kingdom,Derby,drby.uk9016,fixed,0.1,0.1,0.02,0.09,0.1,0.08,0.11,0.06,0.13
+United States,Durham,drhm.usa7306,fixed,0.07,0.07,0.04,0.06,0.08,0.04,0.09,0.01,0.13
+Germany,Dresden,drsd.ger9315,fixed,0.07,0.07,0.02,0.07,0.08,0.06,0.08,0.04,0.11
+Germany,Dortmund,drtm.ger9315,fixed,0.07,0.07,0.02,0.06,0.07,0.05,0.08,0.03,0.1
+United States,Des Moines,dsmn.usa7306,fixed,0.09,0.09,0.03,0.07,0.09,0.07,0.11,0.04,0.14
+Germany,Duesseldorf,dssl.ger9315,fixed,0.07,0.07,0.02,0.06,0.07,0.05,0.08,0.03,0.11
+United States,Detroit,dtrt.usa7306,fixed,0.15,0.15,0.03,0.14,0.15,0.14,0.17,0.11,0.2
+United States,Davenport,dvnp.usa7306,fixed,0.12,0.12,0.06,0.11,0.14,0.08,0.16,0.01,0.22
+United States,Daytona Beach,dytb.usa7306,fixed,0.11,0.11,0.06,0.08,0.11,0.06,0.14,0,0.21
+United States,Dayton,dytn.usa7306,fixed,0.13,0.14,0.06,0.13,0.15,0.1,0.17,0.05,0.23
+Canada,Edmonton Zone,edmn.can8615,fixed,0.09,0.09,0.03,0.07,0.09,0.07,0.11,0.04,0.15
+United States,El centro,elcn.usa7306,fixed,0.03,0.03,0.12,0.02,0.08,-0.03,0.12,-0.16,0.21
+United States,El Paso,elps.usa7306,fixed,0.1,0.1,0.06,0.08,0.11,0.06,0.14,0,0.2
+United States,Elizabeth,elzb.usa7306,fixed,0.16,0.16,0.02,0.15,0.17,0.14,0.17,0.12,0.2
+United States,Essex,essx.usa7306,fixed,0.12,0.12,0.02,0.11,0.12,0.1,0.13,0.08,0.16
+United States,Everett,evrt.usa7306,fixed,0.11,0.11,0.03,0.11,0.12,0.09,0.13,0.07,0.16
+United States,Fargo,farg.usa7306,fixed,0.05,0.05,0.11,0.02,0.07,-0.01,0.13,-0.12,0.22
+United States,flint,flnt.usa7306,fixed,0.12,0.12,0.03,0.11,0.13,0.1,0.14,0.07,0.17
+Italy,Firenze,flrn.ita0110,fixed,0.16,0.16,0.02,0.15,0.16,0.14,0.17,0.13,0.2
+Germany,Frankfurt,frnk.ger9315,fixed,0.11,0.11,0.02,0.1,0.11,0.09,0.12,0.07,0.14
+United States,Fresno,frsn.usa7306,fixed,0.08,0.08,0.06,0.05,0.08,0.03,0.11,-0.02,0.18
+Brazil,Fortaleza,frtl.bra9711,fixed,0.06,0.07,0.02,0.06,0.07,0.05,0.08,0.03,0.1
+United States,fort lauderdale,ftld.usa7306,fixed,0.14,0.14,0.03,0.13,0.14,0.13,0.16,0.1,0.18
+United States,fort myers,ftmy.usa7306,fixed,0.12,0.12,0.03,0.11,0.12,0.09,0.13,0.07,0.17
+United States,fort pierce,ftpr.usa7306,fixed,0.12,0.12,0.05,0.1,0.13,0.09,0.15,0.04,0.2
+United States,fort worth,ftwr.usa7306,fixed,0.1,0.1,0.03,0.09,0.1,0.08,0.12,0.05,0.14
+United States,Fort Wayne,ftwy.usa7306,fixed,0.06,0.06,0.12,0.03,0.08,-0.01,0.14,-0.13,0.25
+Japan,Fukuoka,fukk.jap1115,fixed,0.12,0.12,0.03,0.12,0.13,0.1,0.14,0.08,0.17
+United States,Gary,gary.usa7306,fixed,0.12,0.13,0.04,0.11,0.13,0.1,0.15,0.06,0.19
+Mexico,JALISCO,gdlj.mex9814,fixed,0.02,0.02,0.03,0.01,0.02,0,0.04,-0.02,0.07
+Spain,Guadalajara,gdlj.spa9014,fixed,0.13,0.13,0.02,0.13,0.13,0.12,0.14,0.11,0.16
+Italy,Genova,geno.ita0110,fixed,0.1,0.11,0.06,0.09,0.12,0.06,0.13,0.02,0.2
+Switzerland,Geneva,genv.sui9513,fixed,0.17,0.17,0.03,0.15,0.17,0.15,0.18,0.12,0.21
+Spain,Girona,girn.spa9014,fixed,0.19,0.19,0.02,0.19,0.2,0.18,0.2,0.16,0.23
+United Kingdom,Gloucester,glcs.uk9016,fixed,0.13,0.13,0.04,0.12,0.14,0.09,0.15,0.06,0.2
+China,Guangzhou,gngz.chi9615,fixed,-0.01,-0.01,0.03,-0.01,0,-0.03,0.01,-0.06,0.04
+Brazil,Goiânia,goin.bra9711,fixed,0.06,0.06,0.03,0.05,0.06,0.04,0.08,0.01,0.11
+France,isere,grnb.fra0014,fixed,0.12,0.12,0.03,0.11,0.12,0.1,0.14,0.07,0.17
+Spain,Granada,grnd.spa9014,fixed,0.13,0.13,0.02,0.13,0.14,0.12,0.14,0.1,0.17
+United States,greensburg,grng.usa7306,fixed,0.12,0.12,0.04,0.11,0.13,0.1,0.15,0.06,0.19
+United States,Grand haven,grnh.usa7306,fixed,0.08,0.08,0.05,0.07,0.09,0.05,0.12,-0.01,0.17
+United States,Grand Rapids,grnr.usa7306,fixed,0.08,0.08,0.03,0.07,0.09,0.06,0.11,0.03,0.14
+United States,Greensboro,grns.usa7306,fixed,0.09,0.09,0.04,0.08,0.1,0.07,0.12,0.03,0.16
+United States,greenville,grnv.usa7306,fixed,0.11,0.11,0.03,0.1,0.11,0.08,0.13,0.05,0.16
+United States,Gainesville,gsns.usa7306,fixed,0.06,0.06,0.03,0.05,0.07,0.04,0.08,0.02,0.11
+Ecuador,Guayas,gyql.ecu1418,fixed,0.1,0.1,0.05,0.08,0.1,0.06,0.13,0.01,0.18
+Vietnam,H? Chí Minh,hcmc.vie0913,fixed,0.03,0.02,0.09,0.02,0.05,-0.04,0.07,-0.12,0.16
+Finland,Helsingin ja Uudenmaan,hlsn.fnl9414,fixed,0.1,0.1,0.02,0.09,0.1,0.08,0.11,0.06,0.13
+Germany,Hamburg,hmbr.ger9315,fixed,0.17,0.17,0.02,0.16,0.17,0.15,0.18,0.13,0.21
+Canada,City of Hamilton Health Unit,hmlt.can8615,fixed,0.14,0.15,0.06,0.12,0.15,0.1,0.17,0.05,0.23
+China,Hangzhou,hngk.chi9615,fixed,0.01,0.01,0.04,0,0.02,-0.02,0.03,-0.06,0.08
+China,Hong Kong,hngz.chi9615,fixed,0.03,0.03,0.04,0.01,0.03,0,0.05,-0.04,0.09
+United States,honolulu,hnll.usa7306,fixed,0.12,0.13,0.05,0.1,0.12,0.09,0.15,0.05,0.2
+Germany,Hannover,hnnv.ger9315,fixed,0.08,0.08,0.02,0.08,0.09,0.07,0.1,0.05,0.12
+United States,Harrisburg,hrrs.usa7306,fixed,0.13,0.13,0.05,0.12,0.14,0.1,0.17,0.05,0.22
+United States,Hartford,hrtf.usa7306,fixed,0.12,0.12,0.03,0.11,0.12,0.1,0.14,0.08,0.16
+United States,Houston,hstn.usa7306,fixed,0.13,0.13,0.03,0.12,0.13,0.11,0.15,0.08,0.17
+Spain,Huelva,hulv.spa9014,fixed,0.06,0.06,0.02,0.06,0.07,0.05,0.08,0.03,0.1
+Spain,Huesca,husc.spa9014,fixed,0.07,0.07,0.02,0.07,0.08,0.06,0.09,0.05,0.1
+South Korea,incheon,inch.kor9718,fixed,0.08,0.09,0.07,0.08,0.11,0.04,0.13,-0.03,0.19
+United States,Indianapolis,indn.usa7306,fixed,0.1,0.11,0.03,0.09,0.11,0.08,0.12,0.05,0.16
+United Kingdom,Ipswich,ipsw.uk9016,fixed,0.1,0.1,0.08,0.08,0.12,0.03,0.13,-0.03,0.22
+United States,Iowa city,iwct.usa7306,fixed,0.16,0.16,0.03,0.15,0.17,0.14,0.18,0.11,0.22
+Spain,Jaen,jaen.spa9014,fixed,0.13,0.13,0.02,0.13,0.14,0.12,0.14,0.1,0.16
+United States,Jacksonville,jcks.usa7306,fixed,0.15,0.15,0.02,0.14,0.15,0.13,0.17,0.11,0.19
+Brazil,João Pessoa,jpss.bra9711,fixed,0.08,0.08,0.02,0.07,0.08,0.06,0.09,0.04,0.12
+United States,Jersey city,jrsc.usa7306,fixed,0.19,0.19,0.02,0.18,0.2,0.17,0.2,0.15,0.22
+United States,Kalamazoo,klmz.usa7306,fixed,0.11,0.12,0.07,0.09,0.12,0.06,0.15,0,0.23
+United States,kenosha,knsh.usa7306,fixed,0.11,0.11,0.07,0.09,0.12,0.07,0.16,-0.02,0.22
+United States,Kansas City,knss.usa7306,fixed,0.11,0.12,0.02,0.11,0.12,0.1,0.13,0.08,0.15
+United States,Knoxville,knxv.usa7306,fixed,0.08,0.08,0.05,0.07,0.09,0.05,0.1,0.01,0.16
+Japan,Hyogo,kobe.jap1115,fixed,-0.02,-0.02,0.03,-0.03,-0.01,-0.04,0,-0.08,0.03
+Germany,Koeln,koln.ger9315,fixed,0.15,0.15,0.02,0.14,0.15,0.13,0.16,0.11,0.19
+Kuwait,Kuwait,kuwt.kuw0016,fixed,0.08,0.08,0.05,0.06,0.08,0.03,0.1,0,0.17
+United Kingdom,Leicester,lcst.uk9016,fixed,0.11,0.11,0.03,0.1,0.11,0.1,0.13,0.07,0.16
+Mexico,GUANAJUATO,leon.mex9814,fixed,0.05,0.05,0.03,0.04,0.06,0.03,0.06,0.01,0.09
+Spain,Leon,leon.spa9014,fixed,0.16,0.16,0.02,0.16,0.17,0.15,0.18,0.13,0.2
+United States,lafayette (IN),lfin.usa7306,fixed,0.1,0.1,0.06,0.08,0.11,0.06,0.13,0,0.19
+Spain,La_Rioja,lgrn.spa9014,fixed,0.14,0.14,0.02,0.13,0.14,0.13,0.15,0.11,0.17
+France,seine maritime,lhvr.fra0014,fixed,0.14,0.14,0.02,0.13,0.14,0.12,0.15,0.1,0.18
+France,nord,lill.fra0014,fixed,0.15,0.16,0.03,0.15,0.16,0.13,0.17,0.11,0.2
+Peru,LIMA,lima.per0814,fixed,0.12,0.12,0.03,0.12,0.13,0.1,0.14,0.06,0.16
+United States,Lake charles,lkch.usa7306,fixed,0.08,0.08,0.06,0.07,0.09,0.03,0.1,-0.02,0.17
+United States,lakeland,lkln.usa7306,fixed,0.14,0.14,0.04,0.13,0.14,0.11,0.16,0.07,0.2
+Spain,Lleida,lled.spa9014,fixed,0.13,0.13,0.02,0.12,0.13,0.12,0.14,0.1,0.16
+United States,lancaster,lncs.usa7306,fixed,0.14,0.15,0.04,0.13,0.15,0.12,0.16,0.09,0.21
+United Kingdom,London,lndn.uk9016,fixed,0.2,0.2,0.02,0.19,0.2,0.18,0.21,0.16,0.24
+France,pas de calais,lndu.fra0014,fixed,0.13,0.13,0.05,0.12,0.14,0.1,0.17,0.05,0.22
+United States,lansing,lnsn.usa7306,fixed,0.1,0.1,0.04,0.09,0.11,0.08,0.13,0.03,0.17
+China,Lanzhou,lnzh.chi9615,fixed,0.01,0.01,0.11,-0.01,0.04,-0.05,0.09,-0.17,0.18
+United States,louisville,losv.usa7306,fixed,0.09,0.1,0.08,0.07,0.11,0.03,0.13,-0.03,0.22
+Germany,Leipzig,lpzg.ger9315,fixed,0.06,0.06,0.02,0.05,0.06,0.05,0.07,0.02,0.09
+United States,Los Angeles,lsan.usa7306,fixed,0.2,0.2,0.04,0.18,0.2,0.17,0.21,0.14,0.25
+Switzerland,Vaud,lsnn.sui9513,fixed,0.14,0.14,0.02,0.14,0.15,0.13,0.16,0.1,0.18
+United States,las vegas,lsvg.usa7306,fixed,0.16,0.17,0.05,0.15,0.17,0.13,0.19,0.09,0.25
+United States,Little Rock,lttr.usa7306,fixed,0.1,0.1,0.07,0.08,0.12,0.05,0.13,-0.01,0.22
+Switzerland,Ticino,lugn.sui9513,fixed,0.14,0.14,0.02,0.13,0.14,0.13,0.15,0.11,0.18
+Spain,Lugo,lugo.spa9014,fixed,0.06,0.06,0.02,0.05,0.06,0.05,0.08,0.04,0.09
+United Kingdom,Luton,lutn.uk9016,fixed,0.1,0.1,0.02,0.09,0.1,0.08,0.11,0.06,0.13
+United Kingdom,Liverpool,lvrp.uk9016,fixed,0.11,0.11,0.02,0.11,0.12,0.1,0.12,0.09,0.14
+France,rhone,lyon.fra0014,fixed,0.13,0.14,0.02,0.12,0.13,0.12,0.15,0.1,0.17
+Brazil,Maceió,mace.bra9711,fixed,0.16,0.17,0.03,0.15,0.17,0.15,0.18,0.12,0.21
+Spain,Malaga,malg.spa9014,fixed,0.18,0.18,0.02,0.17,0.18,0.16,0.19,0.15,0.21
+Philippines,Manila City,manl.phi0610,fixed,0.08,0.08,0.08,0.07,0.1,0.03,0.13,-0.04,0.22
+Brazil,Manaus,mans.bra9711,fixed,0.07,0.07,0.02,0.07,0.08,0.06,0.09,0.04,0.11
+United States,mcallen,mcll.usa7306,fixed,0,0,0.12,-0.02,0.03,-0.08,0.07,-0.21,0.17
+United States,middlesex,mddl.usa7306,fixed,0.17,0.17,0.02,0.16,0.17,0.15,0.18,0.12,0.2
+United States,Middletown,mddt.usa7306,fixed,0.17,0.18,0.04,0.16,0.18,0.15,0.2,0.11,0.24
+Spain,Madrid,mdrd.spa9014,fixed,0.1,0.1,0.02,0.09,0.1,0.09,0.11,0.07,0.13
+United Kingdom,Maidstone,mdst.uk9016,fixed,0.07,0.07,0.07,0.05,0.08,0.03,0.12,-0.04,0.18
+United States,Modesto,mdst.usa7306,fixed,0.1,0.1,0.08,0.09,0.13,0.06,0.16,-0.03,0.24
+United States,madison (WI),mdwi.usa7306,fixed,0.05,0.05,0.03,0.04,0.05,0.03,0.06,0.01,0.09
+United Kingdom,Medway,mdwt.uk9016,fixed,0.11,0.11,0.02,0.11,0.12,0.1,0.12,0.08,0.15
+United States,Miami,miam.usa7306,fixed,0.18,0.18,0.03,0.18,0.19,0.16,0.19,0.14,0.22
+Italy,Milano,miln.ita0110,fixed,0.16,0.16,0.02,0.16,0.17,0.14,0.17,0.12,0.2
+Australia,Melbourne,mlbr.aus8809,fixed,0.08,0.08,0.02,0.07,0.08,0.06,0.09,0.05,0.11
+United States,melbourne,mlbr.usa7306,fixed,0.09,0.09,0.09,0.06,0.1,0.03,0.14,-0.04,0.24
+Spain,Melilla,mlll.spa9014,fixed,0.03,0.03,0.02,0.02,0.03,0.02,0.05,-0.01,0.07
+United Kingdom,Milton Keynes,mltk.uk9016,fixed,0.07,0.07,0.03,0.06,0.07,0.05,0.08,0.02,0.1
+United States,milwaukee,mlwk.usa7306,fixed,0.09,0.09,0.03,0.08,0.09,0.07,0.1,0.05,0.13
+United States,memphis,mmph.usa7306,fixed,0.08,0.09,0.03,0.08,0.09,0.06,0.11,0.03,0.14
+Germany,Muenchen,mnch.ger9315,fixed,0.21,0.21,0.03,0.2,0.21,0.19,0.22,0.17,0.25
+United Kingdom,Manchester,mnch.uk9016,fixed,0.16,0.16,0.02,0.15,0.16,0.15,0.17,0.13,0.19
+United States,Toms River,mnmt.usa7306,fixed,0.12,0.13,0.02,0.12,0.13,0.11,0.14,0.09,0.16
+United States,minneapolis,mnnp.usa7306,fixed,0.08,0.08,0.02,0.08,0.09,0.06,0.09,0.04,0.11
+United Kingdom,Mansfield,mnsf.uk9016,fixed,0.03,0.02,0.11,0.01,0.06,-0.03,0.1,-0.15,0.19
+United States,Montgomery,mntg.usa7306,fixed,0.1,0.1,0.07,0.08,0.11,0.06,0.15,-0.01,0.2
+France,herault,mntp.fra0014,fixed,0.11,0.11,0.02,0.1,0.11,0.09,0.12,0.08,0.14
+Canada,Region de Montreal,mntr.can8615,fixed,0.14,0.14,0.05,0.11,0.13,0.1,0.16,0.05,0.22
+Mexico,NUEVO LEÓN,mntr.mex9814,fixed,-0.03,-0.03,0.04,-0.03,-0.02,-0.05,-0.01,-0.09,0.03
+Uruguay,MONTEVIDEO,mntv.uru1216,fixed,-0.03,-0.02,0.03,-0.03,-0.02,-0.04,-0.01,-0.06,0.02
+United States,Mobile,mobl.usa7306,fixed,0.12,0.12,0.06,0.11,0.14,0.09,0.16,0.03,0.21
+United States,Monroe,monr.usa7306,fixed,0.13,0.13,0.05,0.11,0.13,0.09,0.15,0.04,0.2
+United States,Upper Marlboro,mrlb.usa7306,fixed,0.16,0.16,0.02,0.15,0.16,0.14,0.16,0.12,0.19
+France,bouches du rhone,mrsl.fra0014,fixed,0.11,0.12,0.02,0.11,0.12,0.1,0.13,0.08,0.15
+Spain,Murcia,murc.spa9014,fixed,0.17,0.17,0.02,0.17,0.18,0.16,0.18,0.14,0.2
+United States,Myrtle Beach,myrb.usa7306,fixed,0.09,0.09,0.06,0.08,0.11,0.06,0.13,0.01,0.19
+Japan,Aichi,nagy.jap1115,fixed,0.11,0.11,0.02,0.11,0.12,0.1,0.13,0.08,0.15
+United States,Nampa,namp.usa7306,fixed,0.08,0.09,0.08,0.07,0.11,0.03,0.12,-0.03,0.21
+United States,Nashua,nash.usa7306,fixed,0.15,0.16,0.04,0.14,0.16,0.12,0.17,0.09,0.21
+United States,Melville,nass.usa7306,fixed,0.21,0.21,0.03,0.2,0.22,0.19,0.23,0.17,0.26
+Brazil,Natal,natl.bra9711,fixed,0.06,0.06,0.03,0.04,0.06,0.03,0.07,0.01,0.11
+France,alpes maritimes,nice.fra0014,fixed,0.15,0.15,0.02,0.15,0.16,0.13,0.16,0.12,0.19
+United States,Niles,nils.usa7306,fixed,0.08,0.08,0.07,0.05,0.08,0.04,0.12,-0.03,0.19
+France,meuse,nncy.fra0014,fixed,0.12,0.12,0.06,0.1,0.13,0.08,0.16,0.02,0.23
+China,Nanjing,nnjn.chi9615,fixed,0,0,0.03,0,0.01,-0.02,0.02,-0.04,0.05
+France,loire atlantique,nnts.fra0014,fixed,0.15,0.15,0.04,0.14,0.16,0.12,0.17,0.09,0.2
+Italy,Napoli,npls.ita0110,fixed,0.14,0.15,0.04,0.13,0.15,0.12,0.16,0.08,0.2
+United States,Norfolk,nrfl.usa7306,fixed,0.15,0.15,0.03,0.14,0.15,0.13,0.17,0.11,0.19
+United Kingdom,Northampton,nrth.uk9016,fixed,0.12,0.12,0.04,0.11,0.12,0.09,0.14,0.05,0.18
+United States,nashville,nshv.usa7306,fixed,0.11,0.11,0.02,0.1,0.11,0.09,0.12,0.07,0.15
+United Kingdom,Nottingham,nttn.uk9016,fixed,0.1,0.1,0.02,0.1,0.11,0.08,0.11,0.07,0.13
+United States,newburgh,nwbr.usa7306,fixed,0.11,0.11,0.02,0.11,0.12,0.09,0.12,0.08,0.15
+United States,new haven,nwhv.usa7306,fixed,0.16,0.16,0.03,0.15,0.16,0.14,0.18,0.1,0.2
+United States,new london,nwln.usa7306,fixed,0.11,0.12,0.1,0.1,0.14,0.05,0.17,-0.03,0.28
+United States,New Orleans,nwor.usa7306,fixed,0.14,0.14,0.02,0.13,0.14,0.12,0.15,0.1,0.18
+United States,newark,nwrk.usa7306,fixed,0.17,0.17,0.03,0.16,0.18,0.15,0.19,0.13,0.22
+United States,New York,nwyr.usa7306,fixed,0.27,0.27,0.04,0.25,0.27,0.24,0.29,0.2,0.33
+United States,Oklahoma City,oklh.usa7306,fixed,0.09,0.09,0.03,0.08,0.09,0.07,0.11,0.04,0.14
+United States,Oakland,okln.usa7306,fixed,0.16,0.16,0.02,0.15,0.16,0.15,0.18,0.13,0.2
+United States,Omaha,omah.usa7306,fixed,0.11,0.11,0.03,0.11,0.12,0.09,0.13,0.07,0.15
+United States,Orlando,orln.usa7306,fixed,0.14,0.14,0.02,0.13,0.14,0.12,0.15,0.1,0.17
+Spain,Ourense,orns.spa9014,fixed,0.13,0.13,0.02,0.12,0.13,0.11,0.14,0.09,0.16
+Japan,Osaka,osak.jap1115,fixed,-0.03,-0.03,0.03,-0.03,-0.01,-0.05,-0.01,-0.08,0.03
+Norway,Oslo,oslo.nor6918,fixed,0.08,0.08,0.02,0.07,0.09,0.06,0.09,0.04,0.12
+Canada,City of Ottawa Health Unit,ottw.can8615,fixed,0.17,0.18,0.04,0.16,0.18,0.14,0.2,0.1,0.24
+Spain,Asturias,ovid.spa9014,fixed,0.11,0.11,0.02,0.1,0.11,0.09,0.12,0.07,0.14
+United Kingdom,Oxford,oxfr.uk9016,fixed,0.12,0.12,0.02,0.12,0.13,0.1,0.13,0.08,0.16
+Italy,Padova,padu.ita0110,fixed,0.12,0.12,0.02,0.12,0.13,0.11,0.13,0.09,0.15
+France,paris,pars.fra0014,fixed,0.12,0.12,0.02,0.11,0.12,0.11,0.13,0.09,0.16
+Mexico,PUEBLA,pbtx.mex9814,fixed,0.1,0.1,0.02,0.09,0.1,0.09,0.11,0.07,0.13
+Spain,Las_Palmas,pgcn.spa9014,fixed,0.06,0.07,0.02,0.06,0.07,0.05,0.08,0.03,0.1
+United States,philadelphia,phll.usa7306,fixed,0.21,0.22,0.03,0.2,0.22,0.2,0.23,0.17,0.26
+United States,Phoenix,phnx.usa7306,fixed,0.09,0.1,0.02,0.08,0.09,0.08,0.11,0.06,0.13
+Italy,Pisa,pisa.ita0110,fixed,0.14,0.14,0.04,0.13,0.15,0.11,0.16,0.07,0.2
+United States,Palm beach,plmb.usa7306,fixed,0.14,0.15,0.02,0.14,0.15,0.13,0.16,0.11,0.18
+Spain,Baleares,plmm.spa9014,fixed,0.17,0.17,0.02,0.17,0.18,0.15,0.18,0.14,0.2
+Spain,Palencia,plnc.spa9014,fixed,0.06,0.06,0.02,0.05,0.06,0.05,0.07,0.03,0.09
+Italy,Palermo,plrm.ita0110,fixed,0.09,0.09,0.11,0.04,0.09,0.02,0.17,-0.08,0.29
+United Kingdom,Plymouth,plym.uk9016,fixed,0.12,0.12,0.03,0.11,0.13,0.09,0.14,0.07,0.17
+United States,Plymouth,plym.usa7306,fixed,0.12,0.12,0.03,0.11,0.12,0.1,0.13,0.07,0.16
+Spain,Navarra,pmpl.spa9014,fixed,0.2,0.21,0.02,0.2,0.21,0.19,0.22,0.17,0.24
+United States,Pensacola,pnsc.usa7306,fixed,0.04,0.04,0.09,0.01,0.05,-0.02,0.1,-0.12,0.18
+Spain,Pontevedra,pntv.spa9014,fixed,0.15,0.15,0.02,0.15,0.16,0.14,0.17,0.12,0.19
+Czech Republic,CZ01: Prague,prag.cze9415,fixed,0.09,0.09,0.02,0.08,0.09,0.07,0.11,0.06,0.13
+United States,Portland,pror.usa7306,fixed,0.14,0.14,0.02,0.13,0.14,0.12,0.15,0.1,0.18
+United States,Provo,prov.usa7306,fixed,0.14,0.14,0.05,0.12,0.15,0.1,0.17,0.06,0.23
+United Kingdom,Preston,prst.uk9016,fixed,0.05,0.05,0.08,0.03,0.06,0,0.1,-0.07,0.17
+Brazil,Porto Alegre,prta.bra9711,fixed,0.02,0.02,0.04,0.01,0.02,-0.01,0.04,-0.04,0.07
+United States,portland (ME),prtl.usa7306,fixed,0.09,0.09,0.03,0.08,0.09,0.07,0.1,0.04,0.13
+United States,Providence,prvd.usa7306,fixed,0.12,0.12,0.06,0.1,0.13,0.08,0.15,0.03,0.21
+United Kingdom,Peterborough,ptrb.uk9016,fixed,0.09,0.09,0.04,0.08,0.09,0.07,0.12,0.03,0.15
+United States,pittsburgh,ptts.usa7306,fixed,0.12,0.12,0.02,0.11,0.12,0.1,0.13,0.08,0.15
+Philippines,Quezon City,quzn.phi0610,fixed,0.12,0.12,0.04,0.11,0.13,0.1,0.15,0.06,0.19
+United States,Richmond,rchm.usa7306,fixed,0.19,0.19,0.02,0.18,0.19,0.17,0.2,0.15,0.23
+United States,rochester,rchs.usa7306,fixed,0.12,0.12,0.02,0.11,0.12,0.1,0.13,0.09,0.15
+United States,Rockville,rckv.usa7306,fixed,0.13,0.13,0.02,0.12,0.13,0.11,0.14,0.1,0.16
+United Kingdom,Reading,rdng.uk9016,fixed,0.11,0.11,0.03,0.1,0.11,0.09,0.12,0.07,0.15
+United States,reading,rdng.usa7306,fixed,0.13,0.13,0.05,0.12,0.14,0.1,0.16,0.06,0.2
+Brazil,Recife,recf.bra9711,fixed,0.11,0.11,0.02,0.1,0.11,0.1,0.13,0.08,0.14
+Canada,Regina Qu'Appelle Regional Health Authority,regn.can8615,fixed,0.05,0.05,0.13,0.03,0.09,-0.03,0.13,-0.16,0.26
+United States,Reno,reno.usa7306,fixed,0.13,0.13,0.03,0.12,0.13,0.11,0.14,0.08,0.17
+United States,raleigh,rlgh.usa7306,fixed,0.13,0.13,0.03,0.12,0.13,0.11,0.14,0.08,0.18
+France,ille et vilaine,rnns.fra0014,fixed,0.12,0.12,0.03,0.11,0.13,0.1,0.14,0.07,0.18
+Italy,Roma,rome.ita0110,fixed,0.13,0.13,0.02,0.13,0.14,0.11,0.14,0.1,0.17
+United States,Riverside,rvrs.usa7306,fixed,0.2,0.2,0.03,0.19,0.2,0.17,0.21,0.15,0.24
+Japan,Saitama,satm.jap1115,fixed,0.08,0.08,0.03,0.07,0.08,0.06,0.1,0.04,0.12
+United States,Sacramento,scrm.usa7306,fixed,0.14,0.14,0.07,0.12,0.15,0.09,0.16,0.04,0.25
+United States,Scranton,scrn.usa7306,fixed,0.16,0.17,0.03,0.15,0.17,0.14,0.18,0.12,0.22
+United States,san diego,sdig.usa7306,fixed,0.13,0.13,0.03,0.11,0.13,0.11,0.15,0.09,0.18
+Spain,Segovia,segv.spa9014,fixed,0.16,0.16,0.02,0.15,0.16,0.15,0.17,0.12,0.19
+South Korea,seoul,seol.kor9718,fixed,0.08,0.08,0.02,0.08,0.09,0.06,0.09,0.04,0.12
+United States,san francisco,sfrn.usa7306,fixed,0.13,0.13,0.02,0.12,0.14,0.11,0.14,0.09,0.17
+United Kingdom,Sheffield,shff.uk9016,fixed,0.16,0.16,0.02,0.15,0.16,0.15,0.18,0.13,0.2
+China,Shanghai,shng.chi9615,fixed,0.02,0.02,0.02,0.02,0.03,0.01,0.04,-0.01,0.06
+United Kingdom,Slough,slgh.uk9016,fixed,0.09,0.09,0.02,0.08,0.09,0.08,0.1,0.06,0.12
+Spain,Salamanca,slmn.spa9014,fixed,0.16,0.16,0.02,0.15,0.16,0.14,0.17,0.12,0.19
+United States,Salt Lake City,sltl.usa7306,fixed,0.11,0.12,0.02,0.11,0.12,0.1,0.13,0.08,0.16
+Brazil,São Luís,slus.bra9711,fixed,0.14,0.14,0.02,0.12,0.13,0.12,0.15,0.1,0.17
+Brazil,Salvador,slvd.bra9711,fixed,0.09,0.1,0.02,0.09,0.1,0.08,0.11,0.06,0.13
+United Kingdom,Sunderland,sndr.uk9016,fixed,0.15,0.15,0.03,0.14,0.16,0.13,0.17,0.11,0.2
+United States,San Jose,snjs.usa7306,fixed,0.11,0.11,0.03,0.11,0.12,0.09,0.13,0.06,0.16
+Mexico,SAN LUIS POTOSÍ,snlp.mex9814,fixed,0.01,0.01,0.06,0,0.03,-0.03,0.04,-0.08,0.09
+Spain,Gipuzkoa,snsb.spa9014,fixed,0.12,0.12,0.02,0.11,0.12,0.11,0.13,0.09,0.16
+United States,Santa Barbara,sntb.usa7306,fixed,0.1,0.11,0.04,0.09,0.11,0.08,0.13,0.05,0.17
+Chile,Región Metropolitana,sntg.chl0414,fixed,0.12,0.12,0.02,0.12,0.13,0.11,0.14,0.09,0.16
+Spain,Cantabria,sntn.spa9014,fixed,0.19,0.2,0.03,0.18,0.2,0.17,0.21,0.15,0.24
+United States,san antonio,sntn.usa7306,fixed,0.13,0.13,0.03,0.12,0.14,0.11,0.14,0.09,0.17
+Spain,Soria,sori.spa9014,fixed,0.12,0.12,0.02,0.11,0.12,0.1,0.13,0.08,0.15
+Brazil,São Paulo,spal.bra9711,fixed,0.06,0.06,0.03,0.05,0.06,0.04,0.07,0.01,0.1
+United States,Spokane,spkn.usa7306,fixed,0.06,0.06,0.05,0.04,0.07,0.02,0.09,-0.02,0.15
+United States,springfield (MA),spma.usa7306,fixed,0.1,0.1,0.04,0.09,0.11,0.06,0.12,0.03,0.17
+United States,Springfield,spmo.usa7306,fixed,0.04,0.04,0.07,0.01,0.05,-0.02,0.07,-0.08,0.15
+Japan,Hokkaido,sppr.jap1115,fixed,0.03,0.03,0.03,0.02,0.04,0.01,0.05,-0.01,0.08
+United States,Spartanburg,sprt.usa7306,fixed,0.07,0.07,0.08,0.06,0.1,0.01,0.11,-0.06,0.22
+United States,sarasota,srst.usa7306,fixed,0.15,0.15,0.02,0.14,0.15,0.13,0.16,0.11,0.19
+United States,St. Charles,stch.usa7306,fixed,0.09,0.1,0.09,0.06,0.1,0.04,0.15,-0.04,0.23
+United States,stockton,stck.usa7306,fixed,0.07,0.07,0.03,0.06,0.07,0.05,0.08,0.03,0.11
+United States,East St. Louis,stcl.usa7306,fixed,0.1,0.1,0.09,0.07,0.11,0.04,0.15,-0.07,0.24
+Switzerland,Sankt Gallen,stgl.sui9513,fixed,0.08,0.08,0.02,0.08,0.09,0.06,0.09,0.04,0.12
+United States,South bend,sthb.usa7306,fixed,0.13,0.13,0.04,0.1,0.12,0.1,0.15,0.06,0.2
+United States,St. Louis,stls.usa7306,fixed,0.1,0.1,0.04,0.09,0.11,0.07,0.12,0.04,0.17
+United States,stamford,stmf.usa7306,fixed,0.16,0.16,0.03,0.14,0.16,0.14,0.17,0.11,0.2
+United States,St. Petersburg,stpt.usa7306,fixed,0.15,0.15,0.03,0.14,0.15,0.13,0.17,0.1,0.19
+France,bas rhin,strs.fra0014,fixed,0.08,0.08,0.02,0.07,0.08,0.06,0.09,0.04,0.11
+United Kingdom,Southend-on-Sea,stse.uk9016,fixed,0.11,0.11,0.04,0.1,0.12,0.08,0.13,0.04,0.17
+United States,State College,sttc.usa7306,fixed,0.11,0.11,0.1,0.09,0.13,0.05,0.17,-0.05,0.27
+United States,Seattle,sttl.usa7306,fixed,0.13,0.13,0.03,0.12,0.14,0.11,0.15,0.08,0.18
+United Kingdom,Stoke-on-Trent,sttr.uk9016,fixed,0.08,0.08,0.05,0.06,0.09,0.05,0.11,0.01,0.17
+Germany,Stuttgart,sttt.ger9315,fixed,0.07,0.07,0.02,0.06,0.07,0.05,0.08,0.04,0.1
+Spain,Sevilla,svll.spa9014,fixed,0.18,0.19,0.02,0.18,0.19,0.17,0.2,0.15,0.22
+United Kingdom,Swindon,swnd.uk9016,fixed,0.13,0.13,0.05,0.12,0.14,0.09,0.16,0.04,0.21
+Australia,Sydney,sydn.aus8809,fixed,0.17,0.17,0.02,0.16,0.17,0.16,0.18,0.14,0.21
+United States,Tacoma,tacm.usa7306,fixed,0.12,0.12,0.03,0.1,0.12,0.09,0.13,0.07,0.17
+United States,Tampa,tamp.usa7306,fixed,0.11,0.11,0.02,0.1,0.11,0.09,0.12,0.08,0.14
+United States,tucson,tcsn.usa7306,fixed,0.1,0.11,0.03,0.09,0.11,0.08,0.12,0.06,0.15
+Chile,Araucanía,temc.chl0414,fixed,0.06,0.07,0.02,0.07,0.07,0.05,0.08,0.04,0.1
+Spain,Teruel,terl.spa9014,fixed,0.08,0.08,0.02,0.07,0.08,0.07,0.09,0.05,0.11
+United Kingdom,Thanet,thnt.uk9016,fixed,0.1,0.1,0.06,0.08,0.11,0.06,0.13,0.01,0.19
+Mexico,BAJA CALIFORNIA,tijn.mex9814,fixed,0.13,0.14,0.02,0.12,0.13,0.12,0.15,0.1,0.17
+Mexico,MÉXICO,tldl.mex9814,fixed,0.14,0.14,0.02,0.13,0.14,0.12,0.15,0.1,0.17
+United States,Tallahassee,tllh.usa7306,fixed,-0.01,-0.01,0.12,-0.03,0.02,-0.06,0.09,-0.21,0.18
+Estonia,Tallinn,tlln.est9715,fixed,0.04,0.04,0.03,0.03,0.05,0.02,0.06,-0.01,0.09
+China,Tangshan,tngs.chi9615,fixed,0.03,0.03,0.04,0.02,0.04,0.01,0.05,-0.03,0.09
+China,Tianjin,tnjn.chi9615,fixed,0.05,0.05,0.02,0.04,0.05,0.03,0.06,0.01,0.09
+Spain,Tenerife,tnrf.spa9014,fixed,0.14,0.14,0.02,0.13,0.14,0.13,0.16,0.12,0.17
+Japan,Tokyo,toky.jap1115,fixed,0.01,0.01,0.07,-0.01,0.02,-0.04,0.04,-0.1,0.11
+Spain,Toledo,told.spa9014,fixed,0.16,0.17,0.02,0.16,0.17,0.15,0.18,0.13,0.2
+United States,Toledo,told.usa7306,fixed,0.11,0.11,0.04,0.1,0.11,0.08,0.13,0.05,0.17
+France,haute garonne,tols.fra0014,fixed,0.13,0.13,0.03,0.13,0.14,0.11,0.15,0.08,0.19
+Canada,City of Toronto Health Unit,trnt.can8615,fixed,0.13,0.14,0.02,0.13,0.14,0.12,0.15,0.1,0.18
+United States,trenton,trnt.usa7306,fixed,0.14,0.14,0.02,0.13,0.14,0.13,0.16,0.11,0.18
+Spain,Tarragona,trrg.spa9014,fixed,0.1,0.1,0.02,0.1,0.11,0.09,0.11,0.07,0.13
+Brazil,Teresina,trsn.bra9711,fixed,0.09,0.09,0.02,0.09,0.1,0.08,0.11,0.06,0.13
+Italy,Torino,trst.ita0110,fixed,0.17,0.18,0.03,0.16,0.18,0.15,0.19,0.13,0.23
+United States,Tulsa,tuls.usa7306,fixed,0.12,0.12,0.05,0.11,0.14,0.08,0.15,0.03,0.21
+Italy,Trieste,turn.ita0110,fixed,0.08,0.08,0.05,0.05,0.08,0.04,0.1,0,0.15
+Italy,Venezia,venc.ita0110,fixed,0.11,0.12,0.02,0.11,0.12,0.1,0.13,0.08,0.15
+United States,Visalia,visl.usa7306,fixed,0.15,0.15,0.05,0.12,0.15,0.12,0.19,0.07,0.24
+Brazil,Vitória,vitr.bra9711,fixed,0.13,0.13,0.03,0.11,0.12,0.11,0.14,0.08,0.17
+Spain,Araba,vitr.spa9014,fixed,0.12,0.12,0.02,0.12,0.13,0.11,0.13,0.1,0.15
+Spain,Valladolid,vlld.spa9014,fixed,0.17,0.17,0.02,0.16,0.17,0.16,0.18,0.13,0.2
+Spain,Valencia,vlnc.spa9014,fixed,0.2,0.2,0.02,0.2,0.21,0.19,0.21,0.17,0.24
+Mexico,CIUDAD DE MÉXICO,vlom.mex9814,fixed,0.08,0.08,0.02,0.08,0.08,0.06,0.09,0.05,0.11
+Chile,Valparaíso,vlpr.chl0414,fixed,0.04,0.04,0.02,0.03,0.04,0.02,0.05,0,0.08
+Canada,Vancouver Health Service Delivery Area,vncv.can8615,fixed,0.16,0.16,0.03,0.15,0.16,0.14,0.18,0.11,0.22
+United States,Vancouver,vncv.usa7306,fixed,-0.08,-0.08,0.14,-0.12,-0.05,-0.16,0.03,-0.32,0.14
+United States,ventura,vntr.usa7306,fixed,0.12,0.12,0.02,0.11,0.12,0.1,0.13,0.08,0.15
+Italy,Viterbo,vtrb.ita0615,fixed,0.11,0.11,0.08,0.09,0.13,0.06,0.16,-0.01,0.23
+United States,wichita,wcht.usa7306,fixed,0.1,0.1,0.05,0.08,0.1,0.07,0.14,0.01,0.18
+United Kingdom,Wigan,wign.uk9016,fixed,0.1,0.1,0.04,0.1,0.11,0.08,0.13,0.04,0.16
+United States,Wilmington,wlmn.usa7306,fixed,0.14,0.14,0.02,0.13,0.14,0.12,0.15,0.1,0.17
+Canada,Winnipeg Regional Health Authority,wnnp.can8615,fixed,0.14,0.14,0.1,0.1,0.14,0.08,0.19,-0.01,0.29
+United States,Winston-Salem,wnst.usa7306,fixed,0.11,0.11,0.04,0.1,0.12,0.08,0.13,0.04,0.18
+United Kingdom,Worcester,wrcs.uk9016,fixed,0.08,0.08,0.06,0.07,0.1,0.04,0.13,-0.02,0.18
+United States,Worcester,wrcs.usa7306,fixed,0.13,0.13,0.03,0.11,0.13,0.11,0.14,0.08,0.17
+United Kingdom,Warrington,wrrn.uk9016,fixed,0.11,0.11,0.04,0.09,0.11,0.08,0.13,0.04,0.18
+United States,washington (DC),wsdc.usa7306,fixed,0.13,0.14,0.02,0.12,0.13,0.12,0.15,0.1,0.17
+United States,Washington,wshn.usa7306,fixed,0.1,0.1,0.02,0.1,0.11,0.09,0.11,0.07,0.14
+United Kingdom,Birmingham,wstm.uk9016,fixed,0.13,0.13,0.02,0.13,0.13,0.12,0.14,0.1,0.16
+China,Wuhan,wuhn.chi9615,fixed,0.18,0.19,0.04,0.16,0.18,0.16,0.21,0.12,0.25
+China,Xi'An,xian.chi9615,fixed,0,0,0.03,-0.01,0,-0.03,0.01,-0.06,0.04
+Japan,Kanagawa,ykhm.jap1115,fixed,0.12,0.12,0.05,0.12,0.14,0.08,0.15,0.03,0.2
+United States,Youngstown,yngs.usa7306,fixed,0.09,0.09,0.03,0.08,0.09,0.07,0.11,0.05,0.15
+United States,york,york.usa7306,fixed,0.14,0.14,0.04,0.13,0.15,0.12,0.16,0.08,0.2
+Spain,Zamora,zamr.spa9014,fixed,0.1,0.1,0.02,0.09,0.1,0.08,0.11,0.07,0.12
+Switzerland,Zurich,zrch.sui9513,fixed,0.17,0.17,0.02,0.16,0.17,0.16,0.18,0.13,0.21
+Spain,Zaragoza,zrgz.spa9014,fixed,0.17,0.17,0.02,0.16,0.17,0.15,0.18,0.14,0.2

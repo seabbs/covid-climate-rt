@@ -1,0 +1,27 @@
+Package: CovidClimateRt
+Type: Package
+Title: Covid-19 Rt estimates for evaluating the role of climate
+Version: 0.1.0
+Authors@R: c(
+  person(given = "Sam Abbott",
+         role = c("aut", "cre"),
+         email = "contact@samabbott.co.uk",
+         comment = c(ORCID = "0000-0001-8057-8037")))
+Description: Covid-19 Rt estimates for evaluating the role of climate
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+  EpiNow2 (>= 1.3.2),
+  data.table,
+  lubridate
+Suggests:
+  covidregionaldata,
+  future
+Remotes:
+  epiforecasts/covidregionaldata
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Biarch: true
+Depends: 
+  R (>= 3.4.0)

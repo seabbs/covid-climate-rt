@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.log
+nohup.out
+[0-9]*
+*region
+data
+cases/fixed
+cases/time-varying
