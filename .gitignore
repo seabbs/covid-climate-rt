@@ -6,6 +6,7 @@
 nohup.out
 [0-9]*
 *region
-data
+data/
+!delays/data
 cases/fixed
 cases/time-varying
